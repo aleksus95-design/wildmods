@@ -1,0 +1,14 @@
+# Local Unreal/SCUM extracted or rebuilt binaries.
+*.pak
+*.ucas
+*.utoc
+*.uasset
+*.uexp
+*.ubulk
+
+# Local extraction/build workspaces.
+extract/
+stage/
+dist/
+backup_original*/
+*.log
