@@ -1,0 +1,618 @@
+{
+  "game_hotfix": "1.3.4.1.161318",
+  "steam_client_build": "25778341",
+  "paint_included": false,
+  "lua_added": false,
+  "network_primary_indices_unchanged": true,
+  "SCUM_runtime_test": false,
+  "client": [
+    {
+      "name": "StackablePickingGear_B25247492_v2_TEST_P.pak",
+      "sha256": "cbec2432cbbc18760c532de5bf116283fbc28b87869fe56cb04e5546bd6481cb",
+      "bytes": 9996
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_MiniMap_BottomRight_ClientFix_B25728095_R3_179_P.pak",
+      "sha256": "cfa5d0815aa86670941297b63596f336996ce8827b561b18f3b3a263fd708030",
+      "bytes": 21574
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_ClientLootFix_B25728095_R3_177_P.pak",
+      "sha256": "1aef7b58ea37747fa909d9908d10f079f95b57f948338eb2a466a4c860010313",
+      "bytes": 25863
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ZoneGrenade_ClientOriginFix_B25728095_R2_172_P.pak",
+      "sha256": "d09a070b69ddefb7e3151bda2f007888cafbb55e5d17679a051cfb17239ea5f7",
+      "bytes": 11123
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Ghost_LockClientFix_B25728095_R1_171_P.pak",
+      "sha256": "b34b6555354c3ebc230a7b1065bcb1699d0995fa3e35f9e9c999d9e198a2d5e3",
+      "bytes": 11584
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ZoneGrenade_B25728095_v8_170_P.pak",
+      "sha256": "188e4d54e89ee19a0726a79b92611d0b4078fb53f5a7c3834efc82509fbc41b5",
+      "bytes": 14811956
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_BipedRobot_Lvl5_B25728095_TEST_v7_159_P.pak",
+      "sha256": "07831332e2bf854517e24c6ec6b4b239caa0129619d7d79d26f0de25cbe656cf",
+      "bytes": 31668172
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Ghost_B25728095_SP_TEST_v10_1_155_P.pak",
+      "sha256": "16b4c5f4cae90e450b877627d1a9aa7ef40ee8db130c9dcc9220dc1722d0c787",
+      "bytes": 65675387
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_AircraftRepair_B25247492_R1_TEST_89_P.pak",
+      "sha256": "f8fb2349eae5f46317fc34106fb34dc85394840cdd7298b4c19efce57deb1af0",
+      "bytes": 145690
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Compat_SCUM134_B25728095_R2_107_P.pak",
+      "sha256": "fc5bd4712294a228b2c8aaade4490a90c77753bcd6170ba3f689a10d3264e693",
+      "bytes": 11780805
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_KamazLights_B25247492_R1_TEST_94_P.pak",
+      "sha256": "878070fd90551ee2e31c3827071ebe36b6a956a5a2282add6fbcc0ca756294b8",
+      "bytes": 6123
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Kamaz_C4_B25247492_R1_TEST_100_P.pak",
+      "sha256": "0bfeadb800bbca64c7b5e453b285e440d3b99c89275ed6dca2f156446c99ba4e",
+      "bytes": 8658
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Kamaz_Explosion_B25247492_R1_TEST_98_P.pak",
+      "sha256": "95505825beb2bf1b3f7faf9df5c2a7d30defc90faffb0b4034af9b36583850d6",
+      "bytes": 4377
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_MonsterLootPopulation_B25247492_R1_TEST_95_P.pak",
+      "sha256": "0977e27ab918e3381cbfc904bf321915d1d3f13aa3844f3f4f8a0e174b4ce586",
+      "bytes": 205047
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_RailTurret_PakOnly_B25728095_R13_TEST_112_P.pak",
+      "sha256": "3001cfaa00fb1d7abd2d46e86016875642a8e6fa6f33a617733d59d64b71c034",
+      "bytes": 9631
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_RailTurret_Repair_B25728095_R11_110_P.pak",
+      "sha256": "afd1990502327903e422508e1016020a7de39fddbdfa5193fc227a9ea4bc731e",
+      "bytes": 882477
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Railgun_Balance_B25247492_R63_TEST_97_P.pak",
+      "sha256": "aa36605136911731a5ac980d32d5ce3c5fca9415173108ff4c62dcab3677514b",
+      "bytes": 21426
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_StationUI_B25247492_R1_TEST_93_P.pak",
+      "sha256": "a319a95d84a6fae403e48397a1200be0fe1c7d3abf2389c7edd58a726677ba1d",
+      "bytes": 5055
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_TargetLocator_B25247492_v0_6_TEST_87_P.pak",
+      "sha256": "9fd9efc99d867ce47cd351221ce0d515a33e1d39926167501e3d1b16b851525b",
+      "bytes": 48364904
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_B25247492_R5_TEST_79_P.pak",
+      "sha256": "ade7199d2275703834a1f512dce8e67d554f4ae172f84f6d0381d92485edf4a2",
+      "bytes": 12949333
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_B25247492_R7_BALANCE_83_P.pak",
+      "sha256": "04eb614097801e3e7f4c13dbb022f57c308742f4d3d664240fb5bcd7bd0b0d58",
+      "bytes": 22198
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_NoCraft_B25247492_R1_TEST_88_P.pak",
+      "sha256": "659667b2ea0898bc07d8bca89fa45f49f49a95c082e18ab432c6c28e7f3a141a",
+      "bytes": 3819
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_LittleBird_NetGuard_B25247492_v0_1_TEST_75_P.pak",
+      "sha256": "b732f15c4bc2c028958b757adc13bc11c892a930f9cd8afced8131e495b882df",
+      "bytes": 22462
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_ReloadAndMagazineSpeed_B25247492_R1_P.pak",
+      "sha256": "b1ae2f0fbbfecefdcc4e5236c0c51e41682a2370e6ca813745cddca84b270636",
+      "bytes": 752398
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ArchVile_B25247492_v0_14_TEST_71_P.pak",
+      "sha256": "1b14bb7ddf4f2a439aa8a172d01e092db0f2d5c527690099798707857aa633a5",
+      "bytes": 55571580
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_DeepMonstrosity_B25247492_v0_29_TEST_72_P.pak",
+      "sha256": "11f3de7585e500d100ee73343ba95249673c1b88ae5b4cce20464319fed8ee95",
+      "bytes": 13446502
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_M134_Aircraft_B25247492_TEST_68_P.pak",
+      "sha256": "ddf9945ffd8692ca3a1a728f15bd6a8874578b1797babfbaa2b8e7c9d18298d6",
+      "bytes": 1806632
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_Minigun_B25247492_v4_4_MIDWAY_Current_TEST_70_P.pak",
+      "sha256": "8f99ec814257ec9459a86b2d73f18823db4e69e1435651a137857cc352503619",
+      "bytes": 32518008
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RAIL_SERVERFIX_R62_P.pak",
+      "sha256": "5ffb19fdf6cca0ae32c7a79b821f0df6bd3464a7d5d80d323044f9e1f1a1f06e",
+      "bytes": 19857
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ExitGuard_B25247492_v1_P.pak",
+      "sha256": "6850b247319004df8a0ccd1a3945f2eddc47645993dced5b6b6a3d4ed566a4c5",
+      "bytes": 4752
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_MIDWAY_B25728095_R8_TEST_169_P.pak",
+      "sha256": "a47b153ef40fa92d1e181b7993ee6fb11415bbf63e5c1c3d9b72080bb0807fb9",
+      "bytes": 9923308
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZ_SCUM_BuildingMaterials_Half_B25728095_R1_TEST_113_P.pak",
+      "sha256": "bf89f44b3008288e69407e4efc8c53da4c59d08b0b1272ac5b1e0e467a175b63",
+      "bytes": 952682
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZ_SCUM_MIDWAY_CLIENT_B25247492_R5B_Mining60_P.pak",
+      "sha256": "06e83821c2c5d81feb9d02f5745297edf7ff14338c1adeefbeda90b3c05f32a1",
+      "bytes": 575328332
+    },
+    {
+      "name": "ZZZZZZZZZZ_SCUM_MIDWAY_FortificationKeepAlive_B25247492_v1_TEST_30_P.pak",
+      "sha256": "2777c350af575c51cce96074a9451264d98c5ab75f256909f6adb3c21aa91f1e",
+      "bytes": 6412
+    },
+    {
+      "name": "ZZZZZZZZZZ_SCUM_MIDWAY_Streaming_StationRefs_B25247492_v1_TEST_31_P.pak",
+      "sha256": "11eb1237d505ce00051b53d9eec7fd3be9560f553d33c0ae6e2acdf4c0b179d1",
+      "bytes": 80892
+    },
+    {
+      "name": "ZZZZZZZZZZ_SCUM_MIDWAY_TextureScheduling_B25247492_v1_TEST_32_P.pak",
+      "sha256": "c72f55c623b75890c7816b581844181c2b190f66fb2229697d19a4ea4cc030e5",
+      "bytes": 682
+    },
+    {
+      "name": "ZZZZZZ_SCUM_MIDWAY_ClientCompat_B25728095_v6_108_P.pak",
+      "sha256": "e56e19f4386c1873a3f8d8afa5e76fe0eeae1fbc55558ca223cf81cd678418ac",
+      "bytes": 912473
+    },
+    {
+      "name": "pakchunk9999-MidwayCommandMenu-WindowsNoEditor_P.pak",
+      "sha256": "93a2ed3b80a02f3b93312103f1114dc9888d3d99a17a997fbb81cdaea56f3299",
+      "bytes": 377761
+    },
+    {
+      "name": "zzzz_SCUM_FoodConsumptionSpeed_x4_P.pak",
+      "sha256": "f084b7e254a219afd685bbdaf2c0a33a6f4c05e947326fedaa39cfcefe9bd16a",
+      "bytes": 4775
+    },
+    {
+      "name": "zzzzzzzz_SCUM_SpawnableMovablePlaceables_FlagZone_B25728095_R2_P.pak",
+      "sha256": "15b7c0ce525c60548bce619e998f4e8ee0bcefe8c7c0ff459c4a3e74c636ba32",
+      "bytes": 568525
+    },
+    {
+      "name": "zzzzzzzzzzzzzzzzzzzzzz_SCUM_BuildingStacks_x100_NoUses_NoExplosives_NoAmmoBoxes_Arrows100_20260831_P.pak",
+      "sha256": "ba92f1fc8ef6d25018f1734a0c5f4aa6450e10dc0c761c81ce9e1877e8eb2882",
+      "bytes": 791698
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Spy_ModularOnly_B25778341_R1_182_P.pak",
+      "sha256": "e9bad7bae203f5246df89cf64d556b57f9c12abbde5d523119d497b33351ee14",
+      "bytes": 10234891
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Compat_Hotfix_B25778341_R1_183_P.pak",
+      "sha256": "83be4fa8f51b165069745c51b6e4bfe83c6b729f356cc9ef7cc9c292bc028117",
+      "bytes": 7685478
+    }
+  ],
+  "servers": {
+    "23297": [
+      {
+        "name": "StackablePickingGear_B25247492_v2_TEST_P.pak",
+        "sha256": "cbec2432cbbc18760c532de5bf116283fbc28b87869fe56cb04e5546bd6481cb",
+        "bytes": 9996
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_ServerBalance_B25728095_R3_181_P.pak",
+        "sha256": "49b0f61f735372a27b17fa56f513eca65071d2fe50a7a6830cd9304e51d3c53e",
+        "bytes": 14582
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ZoneGrenade_B25728095_v8_170_P.pak",
+        "sha256": "188e4d54e89ee19a0726a79b92611d0b4078fb53f5a7c3834efc82509fbc41b5",
+        "bytes": 14811956
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_BipedRobot_Lvl5_B25728095_TEST_v7_159_P.pak",
+        "sha256": "07831332e2bf854517e24c6ec6b4b239caa0129619d7d79d26f0de25cbe656cf",
+        "bytes": 31668172
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Ghost_B25728095_SP_TEST_v10_1_155_P.pak",
+        "sha256": "16b4c5f4cae90e450b877627d1a9aa7ef40ee8db130c9dcc9220dc1722d0c787",
+        "bytes": 65675387
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_AircraftRepair_B25247492_R1_TEST_89_P.pak",
+        "sha256": "f8fb2349eae5f46317fc34106fb34dc85394840cdd7298b4c19efce57deb1af0",
+        "bytes": 145690
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Compat_SCUM134_B25728095_R2_107_P.pak",
+        "sha256": "fc5bd4712294a228b2c8aaade4490a90c77753bcd6170ba3f689a10d3264e693",
+        "bytes": 11780805
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_KamazLights_B25247492_R1_TEST_94_P.pak",
+        "sha256": "878070fd90551ee2e31c3827071ebe36b6a956a5a2282add6fbcc0ca756294b8",
+        "bytes": 6123
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Kamaz_C4_B25247492_R1_TEST_100_P.pak",
+        "sha256": "0bfeadb800bbca64c7b5e453b285e440d3b99c89275ed6dca2f156446c99ba4e",
+        "bytes": 8658
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Kamaz_Explosion_B25247492_R1_TEST_98_P.pak",
+        "sha256": "95505825beb2bf1b3f7faf9df5c2a7d30defc90faffb0b4034af9b36583850d6",
+        "bytes": 4377
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_MonsterLootPopulation_B25247492_R1_TEST_95_P.pak",
+        "sha256": "0977e27ab918e3381cbfc904bf321915d1d3f13aa3844f3f4f8a0e174b4ce586",
+        "bytes": 205047
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Railgun_Balance_B25247492_R63_TEST_97_P.pak",
+        "sha256": "aa36605136911731a5ac980d32d5ce3c5fca9415173108ff4c62dcab3677514b",
+        "bytes": 21426
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_RailTurret_PakOnly_B25728095_R13_TEST_112_P.pak",
+        "sha256": "3001cfaa00fb1d7abd2d46e86016875642a8e6fa6f33a617733d59d64b71c034",
+        "bytes": 9631
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_RailTurret_Repair_B25728095_R11_110_P.pak",
+        "sha256": "afd1990502327903e422508e1016020a7de39fddbdfa5193fc227a9ea4bc731e",
+        "bytes": 882477
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_StationUI_B25247492_R1_TEST_93_P.pak",
+        "sha256": "a319a95d84a6fae403e48397a1200be0fe1c7d3abf2389c7edd58a726677ba1d",
+        "bytes": 5055
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_TargetLocator_B25247492_v0_6_TEST_87_P.pak",
+        "sha256": "9fd9efc99d867ce47cd351221ce0d515a33e1d39926167501e3d1b16b851525b",
+        "bytes": 48364904
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_B25247492_R5_TEST_79_P.pak",
+        "sha256": "ade7199d2275703834a1f512dce8e67d554f4ae172f84f6d0381d92485edf4a2",
+        "bytes": 12949333
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_B25247492_R7_BALANCE_83_P.pak",
+        "sha256": "04eb614097801e3e7f4c13dbb022f57c308742f4d3d664240fb5bcd7bd0b0d58",
+        "bytes": 22198
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_NoCraft_B25247492_R1_TEST_88_P.pak",
+        "sha256": "659667b2ea0898bc07d8bca89fa45f49f49a95c082e18ab432c6c28e7f3a141a",
+        "bytes": 3819
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_LittleBird_NetGuard_B25247492_v0_1_TEST_75_P.pak",
+        "sha256": "b732f15c4bc2c028958b757adc13bc11c892a930f9cd8afced8131e495b882df",
+        "bytes": 22462
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ArchVile_B25247492_v0_14_TEST_71_P.pak",
+        "sha256": "1b14bb7ddf4f2a439aa8a172d01e092db0f2d5c527690099798707857aa633a5",
+        "bytes": 55571580
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_DeepMonstrosity_B25247492_v0_29_TEST_72_P.pak",
+        "sha256": "11f3de7585e500d100ee73343ba95249673c1b88ae5b4cce20464319fed8ee95",
+        "bytes": 13446502
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_M134_Aircraft_B25247492_TEST_68_P.pak",
+        "sha256": "ddf9945ffd8692ca3a1a728f15bd6a8874578b1797babfbaa2b8e7c9d18298d6",
+        "bytes": 1806632
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_Minigun_B25247492_v4_4_MIDWAY_Current_TEST_70_P.pak",
+        "sha256": "8f99ec814257ec9459a86b2d73f18823db4e69e1435651a137857cc352503619",
+        "bytes": 32518008
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RAIL_SERVERFIX_R62_P.pak",
+        "sha256": "5ffb19fdf6cca0ae32c7a79b821f0df6bd3464a7d5d80d323044f9e1f1a1f06e",
+        "bytes": 19857
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ExitGuard_B25247492_v1_P.pak",
+        "sha256": "6850b247319004df8a0ccd1a3945f2eddc47645993dced5b6b6a3d4ed566a4c5",
+        "bytes": 4752
+      },
+      {
+        "name": "zzzzzzzzzzzzzzzzzzzzzz_SCUM_BuildingStacks_x100_NoUses_NoExplosives_NoAmmoBoxes_Arrows100_20260831_P.pak",
+        "sha256": "ba92f1fc8ef6d25018f1734a0c5f4aa6450e10dc0c761c81ce9e1877e8eb2882",
+        "bytes": 791698
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_RAIL_FPP_R5B_LOCAL_P.pak",
+        "sha256": "a86d822b2d7fe8ef3dde77cb123606ffb87ac84184198c2835943dfe2589fce8",
+        "bytes": 390565
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_MIDWAY_B25728095_R8_TEST_169_P.pak",
+        "sha256": "a47b153ef40fa92d1e181b7993ee6fb11415bbf63e5c1c3d9b72080bb0807fb9",
+        "bytes": 9923308
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZ_SCUM_BuildingMaterials_Half_B25728095_R1_TEST_113_P.pak",
+        "sha256": "bf89f44b3008288e69407e4efc8c53da4c59d08b0b1272ac5b1e0e467a175b63",
+        "bytes": 952682
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZ_SCUM_MIDWAY_SERVER_B25247492_R5B_Mining60_P.pak",
+        "sha256": "c5804bf662b1f3b7c606fd1c44f115feeffd53dfb07631ede7ec7e57c4449058",
+        "bytes": 352560087
+      },
+      {
+        "name": "zzzzzzzz_SCUM_AdminCommands_ElevatedToAdmin_P.pak",
+        "sha256": "ac9c14ff75cfc49e3d1b2b1e4f444467ab4d0c4911f74e90d1534c00145ed3fd",
+        "bytes": 65142
+      },
+      {
+        "name": "zzzz_SCUM_BoostOfEnergy_AllStats_Hybrid_NewBase_P.pak",
+        "sha256": "fc504fd8ded55b336597e9e3ba48df772d680616e9f9c9839ac0f4e84db9575c",
+        "bytes": 3043
+      },
+      {
+        "name": "zzzz_SCUM_FastPhysicalGrowth_DEXx3_FoodWaterHalf_ConsumptionSpeedx4_MERGED_TEST_20260908_P.pak",
+        "sha256": "ca91f3246d691ab5c59e3e8aadd19893a48c50d764250200fb957b452b8c636b",
+        "bytes": 5303
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Spy_ModularOnly_B25778341_R1_182_P.pak",
+        "sha256": "e9bad7bae203f5246df89cf64d556b57f9c12abbde5d523119d497b33351ee14",
+        "bytes": 10234891
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Compat_Hotfix_B25778341_R1_183_P.pak",
+        "sha256": "83be4fa8f51b165069745c51b6e4bfe83c6b729f356cc9ef7cc9c292bc028117",
+        "bytes": 7685478
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_ServerFollowFix_B25728095_R1_174_P.pak",
+        "sha256": "e4e3455e80081d255b42b12b4ec66e836ab9792333e629fc9bd10f38184c8254",
+        "bytes": 11858
+      }
+    ],
+    "23629": [
+      {
+        "name": "StackablePickingGear_B25247492_v2_TEST_P.pak",
+        "sha256": "cbec2432cbbc18760c532de5bf116283fbc28b87869fe56cb04e5546bd6481cb",
+        "bytes": 9996
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_BipedRobot_Lvl5_B25728095_TEST_v7_159_P.pak",
+        "sha256": "07831332e2bf854517e24c6ec6b4b239caa0129619d7d79d26f0de25cbe656cf",
+        "bytes": 31668172
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Ghost_B25728095_SP_TEST_v10_1_155_P.pak",
+        "sha256": "16b4c5f4cae90e450b877627d1a9aa7ef40ee8db130c9dcc9220dc1722d0c787",
+        "bytes": 65675387
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_AircraftRepair_B25247492_R1_TEST_89_P.pak",
+        "sha256": "f8fb2349eae5f46317fc34106fb34dc85394840cdd7298b4c19efce57deb1af0",
+        "bytes": 145690
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Compat_SCUM134_B25728095_R2_107_P.pak",
+        "sha256": "fc5bd4712294a228b2c8aaade4490a90c77753bcd6170ba3f689a10d3264e693",
+        "bytes": 11780805
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_KamazLights_B25247492_R1_TEST_94_P.pak",
+        "sha256": "878070fd90551ee2e31c3827071ebe36b6a956a5a2282add6fbcc0ca756294b8",
+        "bytes": 6123
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Kamaz_C4_B25247492_R1_TEST_100_P.pak",
+        "sha256": "0bfeadb800bbca64c7b5e453b285e440d3b99c89275ed6dca2f156446c99ba4e",
+        "bytes": 8658
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Kamaz_Explosion_B25247492_R1_TEST_98_P.pak",
+        "sha256": "95505825beb2bf1b3f7faf9df5c2a7d30defc90faffb0b4034af9b36583850d6",
+        "bytes": 4377
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_MonsterLootPopulation_B25247492_R1_TEST_95_P.pak",
+        "sha256": "0977e27ab918e3381cbfc904bf321915d1d3f13aa3844f3f4f8a0e174b4ce586",
+        "bytes": 205047
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Railgun_Balance_B25247492_R63_TEST_97_P.pak",
+        "sha256": "aa36605136911731a5ac980d32d5ce3c5fca9415173108ff4c62dcab3677514b",
+        "bytes": 21426
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_RailTurret_PakOnly_B25728095_R13_TEST_112_P.pak",
+        "sha256": "3001cfaa00fb1d7abd2d46e86016875642a8e6fa6f33a617733d59d64b71c034",
+        "bytes": 9631
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_RailTurret_Repair_B25728095_R11_110_P.pak",
+        "sha256": "afd1990502327903e422508e1016020a7de39fddbdfa5193fc227a9ea4bc731e",
+        "bytes": 882477
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_StationUI_B25247492_R1_TEST_93_P.pak",
+        "sha256": "a319a95d84a6fae403e48397a1200be0fe1c7d3abf2389c7edd58a726677ba1d",
+        "bytes": 5055
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_TargetLocator_B25247492_v0_6_TEST_87_P.pak",
+        "sha256": "9fd9efc99d867ce47cd351221ce0d515a33e1d39926167501e3d1b16b851525b",
+        "bytes": 48364904
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_B25247492_R5_TEST_79_P.pak",
+        "sha256": "ade7199d2275703834a1f512dce8e67d554f4ae172f84f6d0381d92485edf4a2",
+        "bytes": 12949333
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_B25247492_R7_BALANCE_83_P.pak",
+        "sha256": "04eb614097801e3e7f4c13dbb022f57c308742f4d3d664240fb5bcd7bd0b0d58",
+        "bytes": 22198
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RailTurret_NoCraft_B25247492_R1_TEST_88_P.pak",
+        "sha256": "659667b2ea0898bc07d8bca89fa45f49f49a95c082e18ab432c6c28e7f3a141a",
+        "bytes": 3819
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_LittleBird_NetGuard_B25247492_v0_1_TEST_75_P.pak",
+        "sha256": "b732f15c4bc2c028958b757adc13bc11c892a930f9cd8afced8131e495b882df",
+        "bytes": 22462
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ArchVile_B25247492_v0_14_TEST_71_P.pak",
+        "sha256": "1b14bb7ddf4f2a439aa8a172d01e092db0f2d5c527690099798707857aa633a5",
+        "bytes": 55571580
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_DeepMonstrosity_B25247492_v0_29_TEST_72_P.pak",
+        "sha256": "11f3de7585e500d100ee73343ba95249673c1b88ae5b4cce20464319fed8ee95",
+        "bytes": 13446502
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_M134_Aircraft_B25247492_TEST_68_P.pak",
+        "sha256": "ddf9945ffd8692ca3a1a728f15bd6a8874578b1797babfbaa2b8e7c9d18298d6",
+        "bytes": 1806632
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_Minigun_B25247492_v4_4_MIDWAY_Current_TEST_70_P.pak",
+        "sha256": "8f99ec814257ec9459a86b2d73f18823db4e69e1435651a137857cc352503619",
+        "bytes": 32518008
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_SCUM_MIDWAY_RAIL_SERVERFIX_R62_P.pak",
+        "sha256": "5ffb19fdf6cca0ae32c7a79b821f0df6bd3464a7d5d80d323044f9e1f1a1f06e",
+        "bytes": 19857
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ExitGuard_B25247492_v1_P.pak",
+        "sha256": "6850b247319004df8a0ccd1a3945f2eddc47645993dced5b6b6a3d4ed566a4c5",
+        "bytes": 4752
+      },
+      {
+        "name": "zzzzzzzzzzzzzzzzzzzzzz_SCUM_BuildingStacks_x100_NoUses_NoExplosives_NoAmmoBoxes_Arrows100_20260831_P.pak",
+        "sha256": "ba92f1fc8ef6d25018f1734a0c5f4aa6450e10dc0c761c81ce9e1877e8eb2882",
+        "bytes": 791698
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_RAIL_FPP_R5B_LOCAL_P.pak",
+        "sha256": "a86d822b2d7fe8ef3dde77cb123606ffb87ac84184198c2835943dfe2589fce8",
+        "bytes": 390565
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZ_SCUM_BuildingMaterials_Half_B25728095_R1_TEST_113_P.pak",
+        "sha256": "bf89f44b3008288e69407e4efc8c53da4c59d08b0b1272ac5b1e0e467a175b63",
+        "bytes": 952682
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZ_SCUM_MIDWAY_SERVER_B25247492_R5B_Mining60_P.pak",
+        "sha256": "c5804bf662b1f3b7c606fd1c44f115feeffd53dfb07631ede7ec7e57c4449058",
+        "bytes": 352560087
+      },
+      {
+        "name": "zzzzzzzz_SCUM_AdminCommands_ElevatedToAdmin_P.pak",
+        "sha256": "ac9c14ff75cfc49e3d1b2b1e4f444467ab4d0c4911f74e90d1534c00145ed3fd",
+        "bytes": 65142
+      },
+      {
+        "name": "zzzz_SCUM_BoostOfEnergy_AllStats_Hybrid_NewBase_P.pak",
+        "sha256": "fc504fd8ded55b336597e9e3ba48df772d680616e9f9c9839ac0f4e84db9575c",
+        "bytes": 3043
+      },
+      {
+        "name": "zzzz_SCUM_FastPhysicalGrowth_DEXx3_FoodWaterHalf_ConsumptionSpeedx4_MERGED_TEST_20260908_P.pak",
+        "sha256": "ca91f3246d691ab5c59e3e8aadd19893a48c50d764250200fb957b452b8c636b",
+        "bytes": 5303
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Spy_ModularOnly_B25778341_R1_182_P.pak",
+        "sha256": "e9bad7bae203f5246df89cf64d556b57f9c12abbde5d523119d497b33351ee14",
+        "bytes": 10234891
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Compat_Hotfix_B25778341_R1_183_P.pak",
+        "sha256": "83be4fa8f51b165069745c51b6e4bfe83c6b729f356cc9ef7cc9c292bc028117",
+        "bytes": 7685478
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ZoneGrenade_B25728095_v8_170_P.pak",
+        "sha256": "188e4d54e89ee19a0726a79b92611d0b4078fb53f5a7c3834efc82509fbc41b5",
+        "bytes": 14811956
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_MIDWAY_B25728095_R8_TEST_169_P.pak",
+        "sha256": "a47b153ef40fa92d1e181b7993ee6fb11415bbf63e5c1c3d9b72080bb0807fb9",
+        "bytes": 9923308
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_ServerBalance_B25728095_R3_181_P.pak",
+        "sha256": "49b0f61f735372a27b17fa56f513eca65071d2fe50a7a6830cd9304e51d3c53e",
+        "bytes": 14582
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ZoneGrenade_B25728095_SP_TEST_v7_165_P.pak",
+        "sha256": "28af2e3127ada6a6543a7d1f6af2dce4b0e18de7edfe17076852854f6254724f",
+        "bytes": 14811185
+      },
+      {
+        "name": "ZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_MIDWAY_B25728095_R7_TEST_166_P.pak",
+        "sha256": "8e00a4a8a59a890fe76fee8e58d9ea7df3b90c0472f75bbaca7d57217624a787",
+        "bytes": 9922450
+      }
+    ]
+  },
+  "effective_server_sets_identical": true,
+  "cleanup_after_server_stop": {
+    "23297": [
+      "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_ServerFollowFix_B25728095_R1_174_P.pak"
+    ],
+    "23629": [
+      "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ZoneGrenade_B25728095_SP_TEST_v7_165_P.pak",
+      "ZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_MIDWAY_B25728095_R7_TEST_166_P.pak"
+    ]
+  },
+  "hosting_upload_sha256_readback_verified": true,
+  "hosting_runtime_applied": false
+}
