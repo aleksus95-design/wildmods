@@ -12,9 +12,9 @@
       "bytes": 9996
     },
     {
-      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_MiniMap_BottomRight_ClientFix_B25728095_R3_179_P.pak",
-      "sha256": "cfa5d0815aa86670941297b63596f336996ce8827b561b18f3b3a263fd708030",
-      "bytes": 21574
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_MiniMap_TopRight_ClientFix_B25778341_R4_184_P.pak",
+      "sha256": "06898fc573e82f1b7783051531e68025ad88eff2aec378f5337d0469a0c1ffea",
+      "bytes": 21575
     },
     {
       "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_ClientLootFix_B25728095_R3_177_P.pak",
@@ -614,5 +614,7 @@
     ]
   },
   "hosting_upload_sha256_readback_verified": true,
-  "hosting_runtime_applied": false
+  "hosting_runtime_applied": false,
+  "client_minimap_position": "top_right",
+  "client_minimap_version": "R4_184"
 }
