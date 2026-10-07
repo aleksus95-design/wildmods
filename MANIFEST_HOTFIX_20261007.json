@@ -220,6 +220,11 @@
       "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Compat_Hotfix_B25778341_R1_183_P.pak",
       "sha256": "83be4fa8f51b165069745c51b6e4bfe83c6b729f356cc9ef7cc9c292bc028117",
       "bytes": 7685478
+    },
+    {
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Transport_GhostGrey_B25778341_R1_185_P.pak",
+      "sha256": "1f94ec06f5a47d7a73690ee84c7719f2076208ec673d4c8c2d8da4262ca1b8e8",
+      "bytes": 13735043
     }
   ],
   "servers": {
@@ -616,5 +621,9 @@
   "hosting_upload_sha256_readback_verified": true,
   "hosting_runtime_applied": false,
   "client_minimap_position": "top_right",
-  "client_minimap_version": "R4_184"
+  "client_minimap_version": "R4_184",
+  "client_transport_skin_version": "GhostGrey R1_185",
+  "client_transport_skin_palette": "graphite / light neutral grey",
+  "client_transport_skin_reference": "Published MIDWAY Ghost v10.1_155",
+  "client_transport_skin_runtime": "READY_FOR_RUNTIME_TEST"
 }
