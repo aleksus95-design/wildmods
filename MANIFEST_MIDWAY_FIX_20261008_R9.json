@@ -1,0 +1,55 @@
+{
+  "version": "Drones R9 / Vector R6 / Zone R3",
+  "scum_build": "25778341 / CL161318 / UE4.27",
+  "files": [
+    {
+      "key": "drones",
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Drones_SafetyFix_B25778341_R9_202_P.pak",
+      "bytes": 42102,
+      "sha256": "a1db662ff3b54cc0236eda0f339ba194452231bda3c8fd8a3ec68b4b2cd38e15"
+    },
+    {
+      "key": "vector",
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_VectorSD_SightsFix_B25778341_R6_203_P.pak",
+      "bytes": 8349,
+      "sha256": "890ec65999b2f8efd56bc0f021dbae674d291a443bab4f4775f24eb207240ae0"
+    },
+    {
+      "key": "zone",
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_ZoneRules_B25778341_R3_204_P.pak",
+      "bytes": 10959,
+      "sha256": "2b93c902e437e0f87bd3faf959f8bd53e60cc6c97866c05a12929054b0e7d5eb"
+    }
+  ],
+  "base_bundle_required": true,
+  "base_dependencies": [
+    "Existing MIDWAY Scout R12 and drone assets",
+    "Existing Silver R7 and R8 crash fix",
+    "Existing Vector R5 models, materials, callbacks and item registry",
+    "Existing Zone grenade R2 visual assets"
+  ],
+  "client_and_server_required": true,
+  "added_reliable_multicast_rpc": true,
+  "new_registry": false,
+  "registry_unchanged": true,
+  "hands_and_controller_mesh_unchanged": true,
+  "tests": {
+    "network-render": {
+      "pass_all": true,
+      "cases": 34,
+      "scope": "UE4.27 lab fixtures using actual shipping MIDWAY bytecode; not native SCUM multiplayer"
+    },
+    "repair-render": {
+      "pass_all": true,
+      "cases": 84,
+      "scope": "UE4.27 lab fixtures using actual shipping MIDWAY bytecode; not native SCUM multiplayer"
+    },
+    "vector": {
+      "pass_all": true,
+      "cases": 15,
+      "scope": "UE4.27 lab fixtures using actual shipping MIDWAY bytecode; not native SCUM multiplayer"
+    }
+  },
+  "native_multiplayer_validation": "pending",
+  "safe_zone_runtime_validation": "pending"
+}
