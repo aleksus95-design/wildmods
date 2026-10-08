@@ -1,0 +1,1073 @@
+{
+  "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_VectorSD_RegistryFix_B25778341_R2_196_P.pak",
+  "sha256": "499727caaba302b67feef1ab04047f5f97b0a347ac4ebabff9315760b9b01e06",
+  "bytes": 18737069,
+  "files": [
+    {
+      "relative": "AssetRegistry.bin",
+      "virtual": "../../../SCUM/AssetRegistry.bin",
+      "bytes": 51754936,
+      "sha256": "34e1f08933e33652e5819d5ffc0dc3dc505b2276747642446ffbebb8980b77f0"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/AttachmentSockets/MIDWAYVector/BP_MountTypeMIDWAYVectorMagazine.uasset",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/AttachmentSockets/MIDWAYVector/BP_MountTypeMIDWAYVectorMagazine.uasset",
+      "bytes": 1332,
+      "sha256": "1b4f8122348c53cd5a4addcff06b97fee9a4bd861af224a602a83ffefbc216c0"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/AttachmentSockets/MIDWAYVector/BP_MountTypeMIDWAYVectorMagazine.uexp",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/AttachmentSockets/MIDWAYVector/BP_MountTypeMIDWAYVectorMagazine.uexp",
+      "bytes": 92,
+      "sha256": "9c02af1c0e7ae09f5c43593e495feb379904283bf209a490ecfa71138d249fdd"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD.uasset",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD.uasset",
+      "bytes": 24853,
+      "sha256": "737c71861c1aa709669c3df04296d6fe94eb934002244a391f8ef062f05f36c5"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD.uexp",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD.uexp",
+      "bytes": 8014,
+      "sha256": "17eb95d4c937518bf3a2802b82e593bd39f62203ce4da771c0607840d4217a96"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD_ES.uasset",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD_ES.uasset",
+      "bytes": 3627,
+      "sha256": "9bcb6842b1fd16ad1bcd5c937b131df2497bba275a1e3cc43e1cabb30cd76fb2"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD_ES.uexp",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD_ES.uexp",
+      "bytes": 645,
+      "sha256": "e290104dd9a488bc14d3afbb213d535264dcc45366c1cf6ce57378cf18b9707e"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40.uasset",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40.uasset",
+      "bytes": 8933,
+      "sha256": "39a9ade3c9c91c6d26a52a158881c66ad3f2e6f803c38360c2f977c9919fe48f"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40.uexp",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40.uexp",
+      "bytes": 2308,
+      "sha256": "c74ecfd7f77d8b83157542d1a58e9de848480dfcd4b98c5b12a598c19ddab4f3"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40_ES.uasset",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40_ES.uasset",
+      "bytes": 3724,
+      "sha256": "0ed569aa12ab7b1b2bc0a916b35747ff113133846a1139366ca1214af6b4409f"
+    },
+    {
+      "relative": "Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40_ES.uexp",
+      "virtual": "../../../SCUM/Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40_ES.uexp",
+      "bytes": 703,
+      "sha256": "d3a36ef225dac8b8018e81ce81e527d889739a695a2d67f18c3d989723ef89e0"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/DA_VectorFirstPerson.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/DA_VectorFirstPerson.uasset",
+      "bytes": 3138,
+      "sha256": "536185de0c657f0b5f1a6030c8c48d6f83e3acf46e74885ad41244b0a04ee365"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/DA_VectorFirstPerson.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/DA_VectorFirstPerson.uexp",
+      "bytes": 797,
+      "sha256": "b22738fdf82c382db188f300e9286e0bb9d43c0609b776dbeab63712eb411985"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_AO_Player_MP5SD_Stand_FP.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_AO_Player_MP5SD_Stand_FP.uasset",
+      "bytes": 2287,
+      "sha256": "3f679b8ccef2b0ed66fe1a9c3d0edcab2ca762c903b50f36f4dbf63f71e1c890"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_AO_Player_MP5SD_Stand_FP.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_AO_Player_MP5SD_Stand_FP.uexp",
+      "bytes": 6396,
+      "sha256": "b49b37b2b0ff94aa775fe7ebf1cfd35873245efbeede6a2afc3f60cfb89ea77c"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_AO_Player_Prone_MP5SD_FP.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_AO_Player_Prone_MP5SD_FP.uasset",
+      "bytes": 2287,
+      "sha256": "bb3ba6b1ac91f83c609bb7d8f2b3cda1fd456fece3c070d6c87efca2e5e8e727"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_AO_Player_Prone_MP5SD_FP.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_AO_Player_Prone_MP5SD_FP.uexp",
+      "bytes": 6396,
+      "sha256": "b49b37b2b0ff94aa775fe7ebf1cfd35873245efbeede6a2afc3f60cfb89ea77c"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Player_MP5SD_FP_Relaxed_Walk.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Player_MP5SD_FP_Relaxed_Walk.uasset",
+      "bytes": 1584,
+      "sha256": "18b00f30022fb2def5ce10a3f89928532e13c87f1e98b8e90d02bdd3fc5a9a03"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Player_MP5SD_FP_Relaxed_Walk.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Player_MP5SD_FP_Relaxed_Walk.uexp",
+      "bytes": 1963,
+      "sha256": "9463c05ab79ece464474aab1c37aff583948de9c7e3c59d4ff4a21d0b647d55e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Jog.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Jog.uasset",
+      "bytes": 1880,
+      "sha256": "4469be37a3af0a6c767069c4705f28f74082c58037dcf437438348400e5bb9bd"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Jog.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Jog.uexp",
+      "bytes": 1963,
+      "sha256": "79d71293f77bd9b485523246c11018eef69c553bb60d54f21eebf8a599c29c08"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Relaxed_Jog.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Relaxed_Jog.uasset",
+      "bytes": 1578,
+      "sha256": "943c8c8e61fba1a7613bec21878653fe50d023e6edd6c4ac04c293efbddc9aa0"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Relaxed_Jog.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Relaxed_Jog.uexp",
+      "bytes": 1963,
+      "sha256": "9463c05ab79ece464474aab1c37aff583948de9c7e3c59d4ff4a21d0b647d55e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Walk.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Walk.uasset",
+      "bytes": 1888,
+      "sha256": "8b1dd2e029ee6b6d68aface5fa2eddc1e9b829c3961beb221c29ff09b598e8b1"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Walk.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_Walk.uexp",
+      "bytes": 1963,
+      "sha256": "79d71293f77bd9b485523246c11018eef69c553bb60d54f21eebf8a599c29c08"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_WalkLimping.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_WalkLimping.uasset",
+      "bytes": 1944,
+      "sha256": "50db19d5fa4541883bb92551393299f49881878cd2bb063464bc700cfb48e7c7"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_WalkLimping.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_BS_Rifle_MP5SD_FP_WalkLimping.uexp",
+      "bytes": 1963,
+      "sha256": "79d71293f77bd9b485523246c11018eef69c553bb60d54f21eebf8a599c29c08"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle.uasset",
+      "bytes": 1607,
+      "sha256": "6396f3ab9af8d25a6b71f5296e47f87857fd3aed5f393a39b023bc0201dbef7d"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle.uexp",
+      "bytes": 10105,
+      "sha256": "bf2d4ba4e458d9a32151573491a36d908dd202f3f29407e383c62494488e6037"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_C.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_C.uasset",
+      "bytes": 1960,
+      "sha256": "a14ce60132eb68c25e3e4cd2505538ee8e16d4934e76ffa8734af3252fbcb202"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_C.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_C.uexp",
+      "bytes": 4932,
+      "sha256": "dad831bc9a1a11af0f6d4402bcecfbd73a09f7a8751c9daab6efbd3cdc978586"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_D.uasset",
+      "bytes": 1960,
+      "sha256": "e67f2fd8aaafbeeacd396a0b7d4339f8c3e91c0b991f3d3c68700e343d1e0c17"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_D.uexp",
+      "bytes": 6248,
+      "sha256": "b2a92c7bda91998c1abba17a928867944c555671f2ea0c4f05740e0d2afd0a3a"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_L.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_L.uasset",
+      "bytes": 1960,
+      "sha256": "4ca06900fecaf21a726ced7d675edb602ade27198d1c1b3d2979895b31d7ecd3"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_L.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_L.uexp",
+      "bytes": 6232,
+      "sha256": "93ff7a7ab33f5f00932866561e0f92896f07a2f61e4f031657076232480a3840"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_R.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_R.uasset",
+      "bytes": 1960,
+      "sha256": "72a862d486fe71cacdcf67679cdb808d8ca6c706bdc2edf74e5b015d449acbf6"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_R.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_R.uexp",
+      "bytes": 6220,
+      "sha256": "f25b147c3805d5c55109bced4c23f703780f8a194ba579d6b1b37b29d07212b3"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_U.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_U.uasset",
+      "bytes": 1960,
+      "sha256": "047a5d8c87e608e3e113af442593b8adc17e2dda00c7f5ce8f0aa3b23d41687f"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_U.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Prone_FP_Idle_U.uexp",
+      "bytes": 6232,
+      "sha256": "d5fbc512e2fb3481d151dd71d53fda238f06f2ca3801e179a8572c868cb4f2b4"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS.uasset",
+      "bytes": 1599,
+      "sha256": "dac119a193d8096bfa19c915bf130ee0fc5963bfe773e2ad589a720f0809c214"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS.uexp",
+      "bytes": 8157,
+      "sha256": "b8101729e486c45acb18d175901f04ff2d21279b98bee7937d89c1fe7cd7f4c3"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Idle.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Idle.uasset",
+      "bytes": 1609,
+      "sha256": "7fe74415d7eb71dfac01fe752890007d117d3d2e2a543e5d78fe3d81b17c89d5"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Idle.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Idle.uexp",
+      "bytes": 14749,
+      "sha256": "de56a80ca3aaa74de5b0fc969fd3929710f1689de8854780844571e2e1a56235"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Limping.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Limping.uasset",
+      "bytes": 1615,
+      "sha256": "68a0271f02647f166e26ae70dec38fcb1459bc6f302fae15aae09792a1cf6d2b"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Limping.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Limping.uexp",
+      "bytes": 12901,
+      "sha256": "3459fa4426b5fb54eabc282a9be254d2d0e8ab211436ce6a8c5484872bb18586"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Walk.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Walk.uasset",
+      "bytes": 1609,
+      "sha256": "acbeda9031a41e21d4cdd4f1b726c052634ee8330416cfbe183d95c1bb7c3f11"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Walk.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_DTS_Walk.uexp",
+      "bytes": 11681,
+      "sha256": "04261574471db6886c445efbfab3a938630610f6368c2febe160b95c674932a5"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle.uasset",
+      "bytes": 1607,
+      "sha256": "40337109337e87dbbb91b1f4b1345485e3d053fa3b5d40cecebb532148758bf1"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle.uexp",
+      "bytes": 11293,
+      "sha256": "148ff9add7df0f47cd6b971e004ca9b401724cd523f6db07efe2de74aae7e07f"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_C.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_C.uasset",
+      "bytes": 1960,
+      "sha256": "981c8e91433dd86dd16eb82f5b47a32167ce8b272e05843d60750aca6df15237"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_C.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_C.uexp",
+      "bytes": 4932,
+      "sha256": "dad831bc9a1a11af0f6d4402bcecfbd73a09f7a8751c9daab6efbd3cdc978586"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_D.uasset",
+      "bytes": 1960,
+      "sha256": "8bc1043c2bf50b4808d2e89ed66ee5465f486c5f1925d8fa786f0601484ec0ad"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_D.uexp",
+      "bytes": 6220,
+      "sha256": "98f56dd8d760fd10e8de9e082ab140ecbe88d80a3a4d3329431f1ac6617ca0e8"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_L.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_L.uasset",
+      "bytes": 1960,
+      "sha256": "16b5d34867095ac2db6dde0f53ba1d4a3c997ad3e76561a72bf3f8577421562b"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_L.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_L.uexp",
+      "bytes": 6208,
+      "sha256": "e15948be9c5f3ed051d94595d17c61719f20fa1a7960266b75e74266021cd85d"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_R.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_R.uasset",
+      "bytes": 1960,
+      "sha256": "86111c2b1cb681a5d84f15fe418d6e30d7134c45f39db9ace5982962528adff8"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_R.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_R.uexp",
+      "bytes": 6224,
+      "sha256": "7becf1fabedade6135d502008feedd18fddfb6b935efd96edcbf1ab0db178cec"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_U.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_U.uasset",
+      "bytes": 1960,
+      "sha256": "fe1800a7fb69d907b89c2b03f31a107a0e8c4eb560c683401859cefd71474fc9"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_U.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Idle_U.uexp",
+      "bytes": 6232,
+      "sha256": "3451e9c40c1e8adae03e693dc8e1f1136464093e65e0b8a85147e866c2b39d88"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog.uasset",
+      "bytes": 1605,
+      "sha256": "dfca422aad22a1ad457c6bd1a3357f4510f2747100e766ff12bb6467a08988db"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog.uexp",
+      "bytes": 14813,
+      "sha256": "1c222903bcf2188d3155dffe418119bcb170116dc1bed8690ba21e2e6212ae58"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog_L.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog_L.uasset",
+      "bytes": 1609,
+      "sha256": "d2b15c6e649e94f3affd4e7ef66cb9ac8455dc473eb04437895da899ea63e187"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog_L.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog_L.uexp",
+      "bytes": 14825,
+      "sha256": "afa50954b7f1aa491cda15b1319b1926fbdea4aeef040342d3b4b1894f80db0a"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog_R.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog_R.uasset",
+      "bytes": 1609,
+      "sha256": "f51a24e34852fd680aa485b673e860f5eece05033dde4d4a36555e7870fdebfc"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog_R.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Jog_R.uexp",
+      "bytes": 16553,
+      "sha256": "828b5454e70876396572db2ee6937d4535c02cbd8119bf1f4c87a3a916dc43c4"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Idle.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Idle.uasset",
+      "bytes": 1623,
+      "sha256": "0ad7d7d8b85600a333ff6685eb002d597da129eb4d4ff77ab49f70482dddd33f"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Idle.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Idle.uexp",
+      "bytes": 16193,
+      "sha256": "32b137f1b7c45d2af6d53ba6b68191e1f943c740cdccad6430495d695c94edd5"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Jog.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Jog.uasset",
+      "bytes": 1621,
+      "sha256": "cd25b63f022d609543699d2038eb27541824b4c28bda009e76b44a36891a29ec"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Jog.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Jog.uexp",
+      "bytes": 14493,
+      "sha256": "962c6a6f95e7ba547201f9121ef07943188a7c39afa717c78ecf1f559a13e3eb"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Walk.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Walk.uasset",
+      "bytes": 1623,
+      "sha256": "b550bc8bc3b7ef15e7cbfedc33b8d63c3470cb1b140c835a6d758874501a74f9"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Walk.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Relaxed_Walk.uexp",
+      "bytes": 18001,
+      "sha256": "b82f71585863e88f79d8fb963d3f0d059c74d1764320b7c3fbb1082d6e6c52d8"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Run.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Run.uasset",
+      "bytes": 1605,
+      "sha256": "28b13efb9141641ba63c1e4a302f042aaf02470bb28d8738816549f7f195b74b"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Run.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Run.uexp",
+      "bytes": 21377,
+      "sha256": "855f83f248990b9df354b69b9d605cf27a0527b4a8e64ffb3bf4e72014068532"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk.uasset",
+      "bytes": 1607,
+      "sha256": "c01e286e6260b58a747310e15f16cd9e8ee07e161f74eee879938a4355a4b068"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk.uexp",
+      "bytes": 15429,
+      "sha256": "011f84cc5718dbad57cd81cfa4df4c731131b275274ed1bb6c88a4315406ec9f"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping.uasset",
+      "bytes": 1621,
+      "sha256": "0017e4cdb43c73f8fa3b2575e35b760ea987f584f170a787e9b2e171c0929156"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping.uexp",
+      "bytes": 13017,
+      "sha256": "8db1cb8cc339ba520c4416d47d2d0582239a38197527935dacf58ff9307fc024"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping_L.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping_L.uasset",
+      "bytes": 1625,
+      "sha256": "c38be2c48fb8648a426cb0bd9bdfe324970b372a2aaaccf2c67707a1a3f2c877"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping_L.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping_L.uexp",
+      "bytes": 13173,
+      "sha256": "26c4eb553faea12713e9236014235ccee3deeb7120358fcccd2a661564a6d9b0"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping_R.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping_R.uasset",
+      "bytes": 1625,
+      "sha256": "ec7715e91e8d8551354ace5b8782fa52c922ede0d847b23fcf87bde74b04ea2b"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping_R.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_WalkLimping_R.uexp",
+      "bytes": 12645,
+      "sha256": "b044d55c92d204de673231f6fe07c6535009cb81b0d6f928b6d2b65620e76af6"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk_L.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk_L.uasset",
+      "bytes": 1611,
+      "sha256": "97dc7fcc9c398c97cb1386a16d8f804dcf034fe7b1a9785af10df28c91578a55"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk_L.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk_L.uexp",
+      "bytes": 15493,
+      "sha256": "49de935cea92b4c5b7ff50f13909e7a197d63b855ca3a0951ee8b65ed97ab49d"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk_R.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk_R.uasset",
+      "bytes": 1611,
+      "sha256": "519340ea464e7e434897e06c0860be62cfbf21259458145b491d5a9adfb841b2"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk_R.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5SD_Stand_FP_Walk_R.uexp",
+      "bytes": 15405,
+      "sha256": "b6f92f478e422c70e872b30a4bbd1e725c25f08c22132c1ac46f6bf04bafcdfc"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5_Relaxed_CrouchCorrect.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5_Relaxed_CrouchCorrect.uasset",
+      "bytes": 1995,
+      "sha256": "097e0cd4568eaeb8f58c6cee8097dbd3cefdd561d997cf5e619f102eba946575"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5_Relaxed_CrouchCorrect.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5_Relaxed_CrouchCorrect.uexp",
+      "bytes": 5748,
+      "sha256": "78e78ec94162a228da32ea8371de9110350b253509cc9614c28ee0d25e6fc950"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5_Relaxed_StandCorrect.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5_Relaxed_StandCorrect.uasset",
+      "bytes": 1991,
+      "sha256": "15bd6abb00e47d22fd7bf86535e8c0645be900e34509fa0d62e929f8806d9d7f"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Player_MP5_Relaxed_StandCorrect.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Player_MP5_Relaxed_StandCorrect.uexp",
+      "bytes": 6240,
+      "sha256": "d4223ee4a3375cdcd94fa072460bd738b7afd79a603eb84102661571f18ae398"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Rifle_MP5_CrouchCorrect.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Rifle_MP5_CrouchCorrect.uasset",
+      "bytes": 1956,
+      "sha256": "83befaf70175e9471515602ce3b44f77d3073f532845806a98cbe2ef116686fb"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Rifle_MP5_CrouchCorrect.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Rifle_MP5_CrouchCorrect.uexp",
+      "bytes": 5628,
+      "sha256": "fff4453c0f6ca61fb206fd13c9e98a149848e9627d38145729e158f3bea03fa6"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Rifle_MP5_ProneCorrect.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Rifle_MP5_ProneCorrect.uasset",
+      "bytes": 1952,
+      "sha256": "abfdf32a2cf43864d3ce284fa64d792780a01ce103b50ca1aa94285bf766b2a3"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Rifle_MP5_ProneCorrect.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Rifle_MP5_ProneCorrect.uexp",
+      "bytes": 6232,
+      "sha256": "cf15f453fc36712be64aeeeffe2f6f412215c861b26a000617408ac03f452de5"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Rifle_MP5_StandCorrect.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Rifle_MP5_StandCorrect.uasset",
+      "bytes": 1952,
+      "sha256": "46f7b6afba41fcb2198dd4b3baa043de2f7c8d04dd51683b5652cd03823aeec3"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Animations/V_Rifle_MP5_StandCorrect.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Animations/V_Rifle_MP5_StandCorrect.uexp",
+      "bytes": 6240,
+      "sha256": "c3fd0f11e15404792ce58433decff02571c209683250761ef5e0436da732c9df"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Icons/ICO_VectorMagazine.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Icons/ICO_VectorMagazine.uasset",
+      "bytes": 899,
+      "sha256": "755d842c4b2f643aaeff15a4d36a14706043a072e9f45c9c7828fb5d82143d57"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Icons/ICO_VectorMagazine.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Icons/ICO_VectorMagazine.uexp",
+      "bytes": 524616,
+      "sha256": "488cfd4c65706be46903db3205265ba602bae65d049bb508d29eaf666ab799f1"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Icons/ICO_VectorSD.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Icons/ICO_VectorSD.uasset",
+      "bytes": 928,
+      "sha256": "b24b35e6f9ff4426ae429a6c99f9207a6e413c8d4540137739f4b23497f1d73b"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Icons/ICO_VectorSD.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Icons/ICO_VectorSD.uexp",
+      "bytes": 1573218,
+      "sha256": "ca737f7695ee2caccf603e659b8f3863f0a71fcb58f090c9a24ebe7b2251292b"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Body.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Body.uasset",
+      "bytes": 2845,
+      "sha256": "c14bb7f7799856114f0b99f1fbeac677606665ff5cbbd632a720663bbe6b64c4"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Body.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Body.uexp",
+      "bytes": 3099,
+      "sha256": "f755622d1904d6b6f9939067882a1fc97a1a4c289c61fd32eb31fad086e8435e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Foregrip.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Foregrip.uasset",
+      "bytes": 2877,
+      "sha256": "c9619b3d95d957afe62d2b33388cc9c458fcc6fd515727445fa8f3fc395711f3"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Foregrip.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Foregrip.uexp",
+      "bytes": 3099,
+      "sha256": "f755622d1904d6b6f9939067882a1fc97a1a4c289c61fd32eb31fad086e8435e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Handle.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Handle.uasset",
+      "bytes": 2861,
+      "sha256": "f85c308159916fcf98b6bcaf77fb5e37d643384933e1668e7c4ec3fab712d805"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Handle.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Handle.uexp",
+      "bytes": 3099,
+      "sha256": "f755622d1904d6b6f9939067882a1fc97a1a4c289c61fd32eb31fad086e8435e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Sights.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Sights.uasset",
+      "bytes": 2861,
+      "sha256": "d0527964a7b07154704832de80f20b5547df4aac8887c2d8af08e4ccd69a3bc2"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Sights.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Sights.uexp",
+      "bytes": 3099,
+      "sha256": "f755622d1904d6b6f9939067882a1fc97a1a4c289c61fd32eb31fad086e8435e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Stock.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Stock.uasset",
+      "bytes": 2853,
+      "sha256": "98e1471a765a163efd33e9af3abf0253a121b11c25f7ba7188b16e588cd97c74"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Stock.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Stock.uexp",
+      "bytes": 3099,
+      "sha256": "f755622d1904d6b6f9939067882a1fc97a1a4c289c61fd32eb31fad086e8435e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Suppressor.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Suppressor.uasset",
+      "bytes": 2893,
+      "sha256": "6e7f03f7a525934288e8598d847e580d62a4ec75a39470f9bf659c36155d0ca9"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Materials/MI_Vector_Suppressor.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Materials/MI_Vector_Suppressor.uexp",
+      "bytes": 3099,
+      "sha256": "f755622d1904d6b6f9939067882a1fc97a1a4c289c61fd32eb31fad086e8435e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Meshes/SK_MIDWAY_VectorMagazine.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Meshes/SK_MIDWAY_VectorMagazine.uasset",
+      "bytes": 3763,
+      "sha256": "d94786c6e333cd5788d9cb7ccd4a7e76cf1ac3b0b45bed17d4f4f947027008ea"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Meshes/SK_MIDWAY_VectorMagazine.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Meshes/SK_MIDWAY_VectorMagazine.uexp",
+      "bytes": 139965,
+      "sha256": "938bd6df741cef5e4df2d4e88780c634457fa06732a14ae03a85972a37f07493"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Meshes/SK_MIDWAY_VectorSD.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Meshes/SK_MIDWAY_VectorSD.uasset",
+      "bytes": 7553,
+      "sha256": "0530cfff6a18628482aa2b361e337c67a189e76dc4a4b2966b4fd7f2a655f19c"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Meshes/SK_MIDWAY_VectorSD.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Meshes/SK_MIDWAY_VectorSD.uexp",
+      "bytes": 12256817,
+      "sha256": "dc5601dd5be64a53a6685c0b006cc85458012c0b2df093c1bda998263ff66693"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_D.uasset",
+      "bytes": 811,
+      "sha256": "cbf43504f4fa0283d555512a56e035ab8f1109a2577c44c935434ba42f6727b6"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_D.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_D.ubulk",
+      "bytes": 2793472,
+      "sha256": "50dd81e3aa4e22d15b4e30e2a900eb550bf97d863de312000f359c934cb5d0bc"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_D.uexp",
+      "bytes": 3423,
+      "sha256": "f4695ba6e1587b7f7114dceaa8731054e3ec3da011c936caf40ba76cdcdffec1"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_N.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_N.uasset",
+      "bytes": 937,
+      "sha256": "384fa9919a0a13f945205d614b9a3bcee32750c59baa4036ff23b226e73507b8"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_N.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_N.ubulk",
+      "bytes": 5586944,
+      "sha256": "66497afcddd18580460cef22b4572959e88d2acb5d539d442bf3fd0c1c266c81"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_N.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_N.uexp",
+      "bytes": 6233,
+      "sha256": "57b099c1abaa26c3ad7630b0a156485e9cf15856fb01ff79eace22f2d9bc752b"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_RMA.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_RMA.uasset",
+      "bytes": 929,
+      "sha256": "0252b7676126398ad23a6c8c5696564c66c84c0a9b72014d41fbb21720a8c093"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_RMA.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_RMA.ubulk",
+      "bytes": 2793472,
+      "sha256": "47d6838114b7ca9ce0d57661689406182466baec76cafe7e8310374364f88c9f"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Body_RMA.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Body_RMA.uexp",
+      "bytes": 3490,
+      "sha256": "ab81f0fb87675b4ea8700529192f4bc78872c7685e1c7b5965988102a89e14ed"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Brass_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Brass_D.uasset",
+      "bytes": 813,
+      "sha256": "eeb9df0aa0ace984630afc3707e84129c98ddad6b10d5cfb763ac8a3e0cc8826"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Brass_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Brass_D.uexp",
+      "bytes": 611,
+      "sha256": "f5367bafc206adcc928002434bc38e9f4505c4857253a4570ed89a1b9ab34a18"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Brass_N.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Brass_N.uasset",
+      "bytes": 939,
+      "sha256": "0758762361f4d301f407a105bc4b52a2b52cc02cb9cece4a4ed4dae3bbf8d571"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Brass_N.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Brass_N.uexp",
+      "bytes": 861,
+      "sha256": "496f596b25d1b41bf562f9d0e700e532fb6991be5d292e783c4c487a3a07a8ab"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Brass_RMA.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Brass_RMA.uasset",
+      "bytes": 931,
+      "sha256": "43cd83fd426a31ab4ff996793dad2a1ca6a46ec45631e2bb55ec5ddc4cdf6596"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Brass_RMA.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Brass_RMA.uexp",
+      "bytes": 678,
+      "sha256": "9d481a85fe41cbab3ef920208681a57137963d386cb9a7292ad6663250fd00a1"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_D.uasset",
+      "bytes": 819,
+      "sha256": "28f0d7a1a2ef14de71fe8b959764d94d8e8c9554134090bcd5b2110b9c2a5db8"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_D.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_D.ubulk",
+      "bytes": 2793472,
+      "sha256": "a030d0f4baf2e0254d1ac9a5a71a4c1a5de4ec8f20123a361ca8313a6ca66f6d"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_D.uexp",
+      "bytes": 3423,
+      "sha256": "36988c80b616f53a8fb5a4066a4515f5ed9db79357b5243c488c2db5d72ded29"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_N.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_N.uasset",
+      "bytes": 945,
+      "sha256": "e8657d4a3c0e3d38d2677d9def2234a051659e24010acf0faf33f2894cf0bc10"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_N.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_N.ubulk",
+      "bytes": 5586944,
+      "sha256": "39e2e907a7299589793023dfab852829b9ed8f1e939ac276e3af5e6d397c8963"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_N.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_N.uexp",
+      "bytes": 6233,
+      "sha256": "0bfefe8361133d8e790b4313e67dd87d3737124cf994c774d2476122e9508244"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_RMA.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_RMA.uasset",
+      "bytes": 937,
+      "sha256": "fd086de2709ef9eeccf9e7f2d1c23e219f7bbb6907a4e0db061a1c14ef4b5c3d"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_RMA.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_RMA.ubulk",
+      "bytes": 2793472,
+      "sha256": "627c774979a260d79ad1001f2c7fc660f581c247288cfb77c50b409aa2a48e89"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_RMA.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Foregrip_RMA.uexp",
+      "bytes": 3490,
+      "sha256": "384b2e108a1cc0a1cd5589792b93408da717fe6329806ce2b9b95cab50719a0c"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_D.uasset",
+      "bytes": 815,
+      "sha256": "5680e522bbb1f1d9de086696130aafa69daf9796971c4e5ff2c4ecd2aee480a0"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_D.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_D.ubulk",
+      "bytes": 2793472,
+      "sha256": "180e65db0bcf069fc86d230b83648f4ddb37aa319e21d5a41e91dacb3abf3726"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_D.uexp",
+      "bytes": 3423,
+      "sha256": "493183ce60595462e637954350639ad7f8307e71981dc16e69b74fbb0837e97e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_N.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_N.uasset",
+      "bytes": 941,
+      "sha256": "c41b708e91a53e55aec3fa1ae3e77744648b52a66962190310d8924c40d32a27"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_N.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_N.ubulk",
+      "bytes": 5586944,
+      "sha256": "57a6d0328a60e337ef366202d7314b70ff3a4f12c8ad90e4fae455a9f542d745"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_N.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_N.uexp",
+      "bytes": 6233,
+      "sha256": "a1d887369402bb644bd105fd3209b18ac700aea5624d648f0bc293fcc1ceb2bb"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_RMA.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_RMA.uasset",
+      "bytes": 933,
+      "sha256": "275095be94a34a28998fa50f88d7da9211ecc7c4787aaeb23782325168244b5a"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_RMA.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_RMA.ubulk",
+      "bytes": 2793472,
+      "sha256": "39fd58380b8f5bf9500cb3e4f808232fea37211d7bda7722affc347ac85e081e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Handle_RMA.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Handle_RMA.uexp",
+      "bytes": 3490,
+      "sha256": "10c2c68c4dbf28fac806308d2cde5fb33024e8175468334b5695ca51a4092886"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Sights_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Sights_D.uasset",
+      "bytes": 815,
+      "sha256": "ad4038922b927fa089191f76acce7574ec61348fcc425ecf87e99b9286f37587"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Sights_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Sights_D.uexp",
+      "bytes": 611,
+      "sha256": "68f90f8aa4a750c6e39ebc41ef0e8bde02816e54f86125e2fd362da280496f02"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Sights_N.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Sights_N.uasset",
+      "bytes": 941,
+      "sha256": "91add58bfdee2b23ebcf1a4ab7a286445d9ef2931c3ab12174fa497abb7e26cd"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Sights_N.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Sights_N.uexp",
+      "bytes": 861,
+      "sha256": "399e14744d169c759324e52cde280e48fbaf3bd8daffd1e5ef2181103d68c40a"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Sights_RMA.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Sights_RMA.uasset",
+      "bytes": 933,
+      "sha256": "0c9b22ed46070e13a9ad6c4fab7d280e1224441f93820ef61c14b0179c96f962"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Sights_RMA.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Sights_RMA.uexp",
+      "bytes": 678,
+      "sha256": "a45ca45a46072847f11c63e2b460025acfb7282c82ba58c2b38abb641eff860e"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_D.uasset",
+      "bytes": 813,
+      "sha256": "44aa5493a3b556305172be6b9b30c1390f30957370b66d8aa4841dafb5a5a45c"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_D.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_D.ubulk",
+      "bytes": 2793472,
+      "sha256": "a6a29e73bd886cc47dd2b38c16d9e6c2f0ffa639c292963a11d6994091d060e9"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_D.uexp",
+      "bytes": 3423,
+      "sha256": "485cb1235fbd62a66efc0e5b0bcd09a563f244f2b2b4fd5f569d5e2caa74c8ca"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_N.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_N.uasset",
+      "bytes": 939,
+      "sha256": "50d3905116d78612bee9741f873c149f059503e2b9eccd1a9cf9c9b7090cb594"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_N.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_N.ubulk",
+      "bytes": 5586944,
+      "sha256": "67181e107f566a66ae4442c9a8c1a6af9abaf4ccca3a8fcbe4d73af313d93bca"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_N.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_N.uexp",
+      "bytes": 6233,
+      "sha256": "f6f7e2dbc4e1c952ebc52dd921f9e40a4957895a191498ff62e2157200e24639"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_RMA.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_RMA.uasset",
+      "bytes": 931,
+      "sha256": "19e4d730a2de05b9a32fb72b49d2594cfb22e2a58fb4406e8f7e5a22441eba79"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_RMA.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_RMA.ubulk",
+      "bytes": 2793472,
+      "sha256": "d74685d91b52788738f59ce8e1e3b367986e36a3c8a5f6129408cdd0e3d658d4"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Stock_RMA.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Stock_RMA.uexp",
+      "bytes": 3490,
+      "sha256": "8e2938e80218544427a3438e23c9725d3586d16b698ef752f6a1bd7e213e3973"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_D.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_D.uasset",
+      "bytes": 823,
+      "sha256": "def49dd9886db4e3b51395fbb9c6c82000bbeb613409da64d24703c59d17c974"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_D.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_D.ubulk",
+      "bytes": 2793472,
+      "sha256": "8c0cb8998fb14662589302b19b552393f96fe131133580af7161203c55bb8e35"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_D.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_D.uexp",
+      "bytes": 3423,
+      "sha256": "22b83a59de2e83d6dd24cd938f91748ee102486da7b499d5751c7e1e925d2b47"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_N.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_N.uasset",
+      "bytes": 949,
+      "sha256": "8e97d4df04b3260aebe1643715800f8efc94b5f1dffed5a187076bdda21081f1"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_N.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_N.ubulk",
+      "bytes": 5586944,
+      "sha256": "4cc69684970b35a7dc569b0ceddd2238966e3256db769dc4d97120a10147d888"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_N.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_N.uexp",
+      "bytes": 6233,
+      "sha256": "a2bb4e52d063429eb5e91b93bc6b449ab47db8f138ebf629e13fed7e6f66e75d"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_RMA.uasset",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_RMA.uasset",
+      "bytes": 941,
+      "sha256": "654871f41fd587e1fcbb3988dc764d35053c845f294f0e1099f1ea50214bd577"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_RMA.ubulk",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_RMA.ubulk",
+      "bytes": 2793472,
+      "sha256": "998855f9da9a4eb069587309171bbd703b01f06d19a7071873b4fffc09f34d82"
+    },
+    {
+      "relative": "Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_RMA.uexp",
+      "virtual": "../../../SCUM/Content/MIDWAY/Vector/Textures/T_Vector_Suppressor_RMA.uexp",
+      "bytes": 3490,
+      "sha256": "232d231700b30a8f805d10268411318f0777422f34a41547170e56e6eca9e5ef"
+    }
+  ],
+  "rewritten_classes": [
+    {
+      "old": "Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD.uasset",
+      "new": "Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD.uasset",
+      "imports": 190,
+      "exports": 29,
+      "roundtrip_equal": true
+    },
+    {
+      "old": "Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD_ES.uasset",
+      "new": "Content/ConZ_Files/Items/Weapons/Ranged_Weapons/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD_ES.uasset",
+      "imports": 10,
+      "exports": 2,
+      "roundtrip_equal": true
+    },
+    {
+      "old": "Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40.uasset",
+      "new": "Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40.uasset",
+      "imports": 57,
+      "exports": 10,
+      "roundtrip_equal": true
+    },
+    {
+      "old": "Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40_ES.uasset",
+      "new": "Content/ConZ_Files/Items/Weapons/Weapon_Clips/MIDWAYVector/zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40_ES.uasset",
+      "imports": 16,
+      "exports": 2,
+      "roundtrip_equal": true
+    }
+  ],
+  "source_vector_r1_sha256": "bb001cf9cb123033790d41a499a2819a9eb45d1c4142de74f86f11809205c329",
+  "registry_sha256": "34e1f08933e33652e5819d5ffc0dc3dc505b2276747642446ffbebb8980b77f0",
+  "preserved_primary_indices": 12472,
+  "append_only_primary_ids": true
+}

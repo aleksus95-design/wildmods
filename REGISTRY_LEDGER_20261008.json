@@ -1,0 +1,31 @@
+{
+  "scum_build": 25778341,
+  "canonical_registry_sha256": "34e1f08933e33652e5819d5ffc0dc3dc505b2276747642446ffbebb8980b77f0",
+  "pak": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_VectorSD_RegistryFix_B25778341_R2_196_P.pak",
+  "pak_sha256": "499727caaba302b67feef1ab04047f5f97b0a347ac4ebabff9315760b9b01e06",
+  "preserved_primary_indices": 12472,
+  "result_primary_indices": 12476,
+  "required_rule": "Preserve this catalog prefix and all existing identity paths. Visual or gameplay overlays introducing no PrimaryAsset IDs must not ship an older AssetRegistry.bin.",
+  "new_primary_ids": [
+    {
+      "type": "LWObjectSetup",
+      "index_zero_based": 2972,
+      "name": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40_ES"
+    },
+    {
+      "type": "LWObjectSetup",
+      "index_zero_based": 2973,
+      "name": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD_ES"
+    },
+    {
+      "type": "Item",
+      "index_zero_based": 2939,
+      "name": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorMagazine40"
+    },
+    {
+      "type": "Item",
+      "index_zero_based": 2940,
+      "name": "zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzMIDWAY_VectorSD"
+    }
+  ]
+}
