@@ -1,0 +1,29 @@
+{
+  "mod_id": "midway_drone_crashfix_vector_focus",
+  "version": "Drone R8 + Vector R5",
+  "scum_build": "Steam 25778341 / CL161318 / UE4.27",
+  "files": [
+    {
+      "path": "SCUM/Content/Paks/~mods/MIDWAY_Drones_CrashFix/ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Drones_CrashFix_B25778341_R8_198_P.pak",
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Drones_CrashFix_B25778341_R8_198_P.pak",
+      "size": 39037,
+      "sha256": "36fc498bd904464bd31606494af049191065563cb63c56c5691af2c3f17288ed"
+    },
+    {
+      "path": "SCUM/Content/Paks/~mods/MIDWAY_VectorSD_RegistryFix/ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_VectorSD_B25778341_R5_201_P.pak",
+      "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_VectorSD_B25778341_R5_201_P.pak",
+      "size": 38433879,
+      "sha256": "10fe45dbb955e71a5cef7bfef349bbe6b1dfc956aa816470c609eeb4c3ccfee2"
+    }
+  ],
+  "required": true,
+  "server_visible_without_client": false,
+  "base_dependencies": [
+    "MIDWAY SilverDrone R7 and its existing loader/assets",
+    "MIDWAY ScoutDrone R12 and its existing loader/assets",
+    "existing compatible MIDWAY mod bundle"
+  ],
+  "registry_sha256": "e126503d79a153e3fee0d66dd49b0ed04e49046761fbe3220b5ab152653e876c",
+  "registry_bit_identical_to_r4": true,
+  "install_notes": "Add both PAKs to client ~mods subfolders and server Paks/MOD. Preserve filenames. Restart client to activate. R8 + Vector R4 already active on both servers; visual-only R5 is uploaded and applies after the next server restart."
+}
