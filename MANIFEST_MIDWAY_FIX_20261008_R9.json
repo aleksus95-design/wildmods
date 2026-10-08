@@ -50,6 +50,30 @@
       "scope": "UE4.27 lab fixtures using actual shipping MIDWAY bytecode; not native SCUM multiplayer"
     }
   },
-  "native_multiplayer_validation": "pending",
-  "safe_zone_runtime_validation": "pending"
+  "native_multiplayer_validation": "dedicated_server_startup_pass; gameplay_pending",
+  "safe_zone_runtime_validation": "pending",
+  "servers": [
+    {
+      "server_id": "23297",
+      "all_three_paks_mounted": true,
+      "engine_initialized": true,
+      "network_listening": true,
+      "fatal": 0,
+      "assertions": 0,
+      "three_announcements_delivered": true,
+      "restart_accepted": true,
+      "checked_utc": "2026-10-08T14:04:52.478044+00:00"
+    },
+    {
+      "server_id": "23629",
+      "all_three_paks_mounted": true,
+      "engine_initialized": true,
+      "network_listening": true,
+      "fatal": 0,
+      "assertions": 0,
+      "three_announcements_delivered": true,
+      "restart_accepted": true,
+      "checked_utc": "2026-10-08T14:04:52.274113+00:00"
+    }
+  ]
 }
