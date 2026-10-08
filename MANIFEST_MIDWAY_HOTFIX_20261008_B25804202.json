@@ -1,0 +1,28 @@
+{
+  "version": "Hotfix compatibility R2",
+  "native_build": 25804202,
+  "native_CL": 161892,
+  "native_version": "1.3.4.2.161892",
+  "file": {
+    "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_Compat_Hotfix_B25804202_R2_205_P.pak",
+    "bytes": 7692240,
+    "sha256": "4fc78019184e631de866c898330d1d63d3710024b04f171e2a7bedf2edf7627e",
+    "registry_sha256": "d58e7a44778e01b0e6e56cf1ad479e0e81b70c6c9e23cb9687e35ecb0f18294a"
+  },
+  "base_mods_required": true,
+  "client_and_server_required": true,
+  "existing_primary_asset_catalogs_identical": true,
+  "preserved_item_indices": 2941,
+  "native_item_prefix_preserved": 2854,
+  "native_rows": 126942,
+  "existing_mod_rows": 2404,
+  "new_primary_items": false,
+  "registry_mount_proofs": [
+    "client",
+    "23297",
+    "23629"
+  ],
+  "native_startup": "pending_restart",
+  "native_gameplay": "not_exercised",
+  "servers": []
+}
