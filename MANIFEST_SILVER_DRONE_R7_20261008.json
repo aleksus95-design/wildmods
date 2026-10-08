@@ -1,0 +1,73 @@
+{
+  "name": "ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ_MIDWAY_SilverDrone_Repair_B25778341_R7_194_P.pak",
+  "bytes": 65176,
+  "sha256": "a053f77f3ed5217eca5cc6ffd04dad2b4e8cd83730e5721393e59ce5652e9d27",
+  "priority_suffix": 194,
+  "mount": "../../../SCUM/Content/MIDWAY/SilverDrone/",
+  "files": [
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Effects/M_SD_Blast.uasset",
+      "bytes": 1465,
+      "sha256": "bf63ebfa8a78a708e1a48b160281c898b13a60ae6c8084a1a1ce89ff7faea29e"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Effects/M_SD_Blast.uexp",
+      "bytes": 69477,
+      "sha256": "4227973b4ca69e311c97b4efbfea2d20399c39863b2437db42f6edeba3dd6d85"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Effects/PS_SD_Blast.uasset",
+      "bytes": 10614,
+      "sha256": "c0af0c52ebac2b29b3cf44876527bfd9aeddd4116223204b134463d16ba60f17"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Effects/PS_SD_Blast.uexp",
+      "bytes": 9564,
+      "sha256": "867a05e53e532e8938d66a0aec7ea1b9a770896cacf84e32e655b464a8520605"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Runtime/BP_SD_Countdown.uasset",
+      "bytes": 11549,
+      "sha256": "0ba28a7c860dca0d31467dc98f96bd401821f345d3ea97e90302b520fc0d9060"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Runtime/BP_SD_Countdown.uexp",
+      "bytes": 11074,
+      "sha256": "37d7997668cf7cbcd2c006b7307b4bcfea6b4588081a5cb01265a55960f69693"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Runtime/BP_SD_CountdownLabel.uasset",
+      "bytes": 2868,
+      "sha256": "e682aace0a8caa78772666abdb34a86cee000cbea8a329cee81d981c2e873db9"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Runtime/BP_SD_CountdownLabel.uexp",
+      "bytes": 1001,
+      "sha256": "bc006c959f667de53e312cb6353ac61cc76351a3ee37b7ab9920b826a6e59d3f"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Runtime/BP_SD_LootCorpse.uasset",
+      "bytes": 8311,
+      "sha256": "07dbcd837756c5c087f186dd90be7d0e709f6222b71d5ed9811e2440fe95ffc8"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Runtime/BP_SD_LootCorpse.uexp",
+      "bytes": 4078,
+      "sha256": "af7e935a4cbdd2d19b71fa1763adfa071fe7604ada4f3b932e6210ce607132ec"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Runtime/BPC_SilverDroneCombat.uasset",
+      "bytes": 23332,
+      "sha256": "45c572334b4aa1199bd011bd7f3aebfeb7767657319f393b3c8539df969baf6e"
+    },
+    {
+      "virtual": "../../../SCUM/Content/MIDWAY/SilverDrone/Runtime/BPC_SilverDroneCombat.uexp",
+      "bytes": 45161,
+      "sha256": "988e571f6e8f963f4e38ffe897cc1a261b6111441100151e9a0a05684154d81a"
+    }
+  ],
+  "registry_override": false,
+  "new_primary_items": 0,
+  "existing_net_fields_preserved": true,
+  "client_and_server_required": true
+}
