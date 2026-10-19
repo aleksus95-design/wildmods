@@ -1,5 +1,5 @@
 {
-  "release": "M13_COMMON_FULL_20261019",
+  "release": "M13_R95_COMMON_FULL_20261019",
   "role": "client",
   "profile": "COMMON_PVP_PVE",
   "build": "25804202",
@@ -123,10 +123,10 @@
       "sha256": "fbe1c4a99eb87509dbb05946770af44e2e5603eb1c201b3b69c1fa09808313ec"
     },
     {
-      "name": "MIDWAY_Tank_B25804202_R84_326_P.pak",
-      "relative_path": "~mods/MIDWAY_Full/MIDWAY_Tank_B25804202_R84_326_P.pak",
-      "bytes": 68994178,
-      "sha256": "8e3c6eba97bcb0c41e9c12ae73764bb67ef2add3a0f7bbab334111c5edc6b33f"
+      "name": "MIDWAY_Tank_B25804202_R95_326_P.pak",
+      "relative_path": "~mods/MIDWAY_Full/MIDWAY_Tank_B25804202_R95_326_P.pak",
+      "bytes": 68994377,
+      "sha256": "77fd137dba72495602c02526fab1ed9cecb61e0a9df2e677188ba8b3dc17f65e"
     },
     {
       "name": "MIDWAY_Transport_Network_Q1_290_P.pak",
