@@ -17,7 +17,7 @@ def verify(root, manifest, installed=False):
     for p in root.rglob('*'):
         if not p.is_file() or p.suffix.lower() not in ('.pak', '.sig'): continue
         if '.git' in p.relative_to(root).parts: continue
-        if installed and p.parent == root and re.fullmatch(r'pakchunk\d+(?:_s\d+)?-WindowsNoEditor\.(pak|sig)', p.name, re.I): continue
+        if installed and p.parent == root and re.fullmatch(r'pakchunk\d+(?:_s\d+)?(?:optional)?-WindowsNoEditor\.(pak|sig)', p.name, re.I): continue
         key = p.relative_to(root).as_posix().casefold()
         if key in actual: issues.append('DUPLICATE_PATH: ' + key)
         actual[key] = p
