@@ -40,5 +40,5 @@ if __name__ == '__main__':
     if not root.is_dir(): raise SystemExit('Folder not found: ' + str(root))
     manifest = json.loads((base / 'INSTALL_MANIFEST.json').read_text(encoding='utf-8-sig'))
     issues = verify(root, manifest, installed=len(sys.argv) > 1)
-    print('\n'.join(issues) if issues else 'OK: all 31 MIDWAY PAK files match; no unexpected PAK files.')
+    print('\n'.join(issues) if issues else f'OK: all {len(manifest["files"])} MIDWAY PAK files match; no unexpected PAK files.')
     raise SystemExit(bool(issues))

@@ -1,9 +1,9 @@
 {
-  "release": "M13_R95_COMMON_FULL_20261019",
+  "release": "M13_R95_COIN_R9_COMMON_FULL_20261019",
   "role": "client",
   "profile": "COMMON_PVP_PVE",
   "build": "25804202",
-  "pak_count": 31,
+  "pak_count": 32,
   "registry_owner": "MIDWAY_MODPlus_TEST_M7_606_P.pak",
   "registry_sha256": "b6ee7d8fb9bb1f75ad3a5732a21b406e35b526148223d079233d6eef02f97139",
   "test_silver_trigger_included": false,
@@ -193,6 +193,12 @@
       "relative_path": "~mods/MIDWAY_Full/zzzzzzzzzzz_SCUM_WeaponManualKit_B25804202_R8_304_P.pak",
       "bytes": 7990988,
       "sha256": "8b299a88cf0e5daa5a11d9f418421895f38b3efaaa6acce8fac2033c2554d3fa"
+    },
+    {
+      "name": "MIDWAY_CoinLootTable_R9_617_P.pak",
+      "relative_path": "~mods/MIDWAY_Full/MIDWAY_CoinLootTable_R9_617_P.pak",
+      "bytes": 63535,
+      "sha256": "73a5b3548c1c6ecf287b4f77ae50730d967f1f08fa23944c92e334ae500563dd"
     }
   ]
 }
