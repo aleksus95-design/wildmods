@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "38dd66b5c90acc1897c0d3d478cc238353bf4c99",
-  "file_count": 31,
-  "files_sha256": "0a877e8e7a46ca446987c938b4a38016dc20c559320385bce297690a54ceeeaa",
+  "commit": "d75ace0ff2e27b8bb3ae907076190a765204c386",
+  "file_count": 32,
+  "files_sha256": "024e3f56fc093e02d813c0b9ecb8a2e4feeb07c102a126d3390e459186df1db0",
   "items": [
     {
       "path": "MIDWAY_Full/MIDWAY_BuildAnywhere_Compat_Q22_305_P.pak",
@@ -23,6 +23,14 @@
       "name": "MIDWAY_Client_FULL_B25804202_R19_225_P.pak",
       "lfs_oid": "d9a15db06ebf7ccbaebefbb21dbac00e24a4cf6026b494d33004e8a27ae819b2",
       "lfs_size": 860004641
+    },
+    {
+      "path": "MIDWAY_Full/MIDWAY_CoinLootTable_R9_617_P.pak",
+      "size": 130,
+      "sha": "67e5aa4f982d1c6e5de43cc13e4006090e39e51d",
+      "name": "MIDWAY_CoinLootTable_R9_617_P.pak",
+      "lfs_oid": "73a5b3548c1c6ecf287b4f77ae50730d967f1f08fa23944c92e334ae500563dd",
+      "lfs_size": 63535
     },
     {
       "path": "MIDWAY_Full/MIDWAY_CopperCoins_B25804202_R6_511_P.pak",
