@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "bbb21cf92a2cf663e1acfb6ebd6f5b69bf3c93a2",
+  "commit": "38dd66b5c90acc1897c0d3d478cc238353bf4c99",
   "file_count": 31,
-  "files_sha256": "f4fdbdf67b5e73332b39210e301633d0692faa3417c0e0ce3a3b49aeb9794046",
+  "files_sha256": "0a877e8e7a46ca446987c938b4a38016dc20c559320385bce297690a54ceeeaa",
   "items": [
     {
       "path": "MIDWAY_Full/MIDWAY_BuildAnywhere_Compat_Q22_305_P.pak",
@@ -145,12 +145,12 @@
       "lfs_size": 8547832
     },
     {
-      "path": "MIDWAY_Full/MIDWAY_Tank_B25804202_R84_326_P.pak",
+      "path": "MIDWAY_Full/MIDWAY_Tank_B25804202_R95_326_P.pak",
       "size": 133,
-      "sha": "0e25b2197f4659ce984f595229229a8231d9fc73",
-      "name": "MIDWAY_Tank_B25804202_R84_326_P.pak",
-      "lfs_oid": "8e3c6eba97bcb0c41e9c12ae73764bb67ef2add3a0f7bbab334111c5edc6b33f",
-      "lfs_size": 68994178
+      "sha": "12d45b5bf7b5b2bdc7e5c1284fd9f3041d369d0e",
+      "name": "MIDWAY_Tank_B25804202_R95_326_P.pak",
+      "lfs_oid": "77fd137dba72495602c02526fab1ed9cecb61e0a9df2e677188ba8b3dc17f65e",
+      "lfs_size": 68994377
     },
     {
       "path": "MIDWAY_Full/MIDWAY_Transport_Network_Q1_290_P.pak",
