@@ -27,7 +27,10 @@ def verify(root, manifest, installed=False):
     issues.extend('UNEXPECTED: ' + k for k in sorted(actual.keys() - expected.keys()))
     for key in sorted(expected.keys() & actual.keys()):
         p, row = actual[key], expected[key]
-        with p.open('rb') as stream: digest = hashlib.file_digest(stream, 'sha256').hexdigest()
+        h = hashlib.sha256()
+        with p.open('rb') as stream:
+            for chunk in iter(lambda: stream.read(1048576), b''): h.update(chunk)
+        digest = h.hexdigest()
         if p.stat().st_size != row['bytes'] or digest != row['sha256']: issues.append('CHANGED: ' + key)
     return issues
 
