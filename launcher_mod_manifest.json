@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "d75ace0ff2e27b8bb3ae907076190a765204c386",
-  "file_count": 32,
-  "files_sha256": "024e3f56fc093e02d813c0b9ecb8a2e4feeb07c102a126d3390e459186df1db0",
+  "commit": "8268f572c9715e51a3cc2ce54ee3a809f1fdbab3",
+  "file_count": 33,
+  "files_sha256": "ad35933d4241fcdff976cb434e11018e23dfac2409f7ab0daa3236e8fb933a12",
   "items": [
     {
       "path": "MIDWAY_Full/MIDWAY_BuildAnywhere_Compat_Q22_305_P.pak",
@@ -247,6 +247,14 @@
       "name": "zzzzzzzzzzz_SCUM_WeaponManualKit_B25804202_R8_304_P.pak",
       "lfs_oid": "8b299a88cf0e5daa5a11d9f418421895f38b3efaaa6acce8fac2033c2554d3fa",
       "lfs_size": 7990988
+    },
+    {
+      "path": "MIDWAY_Garden_PVE_100L_Farming10x_R2_620_P.pak",
+      "size": 131,
+      "sha": "6d4dac83a7aaf494ab85e5feded4467a2dbbf310",
+      "name": "MIDWAY_Garden_PVE_100L_Farming10x_R2_620_P.pak",
+      "lfs_oid": "a4dc7800857790cbfbd32dbb69a1398852b336623d6b1b0fdcf9dfed0367a7e7",
+      "lfs_size": 129632
     },
     {
       "path": "MIDWAY_MODPlus_TEST/MIDWAY_MODPlus_TEST_M7_606_P.pak",
