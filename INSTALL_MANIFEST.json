@@ -1,11 +1,11 @@
 {
-  "release": "MIDWAY_R16_SCUM135_20261028",
+  "release": "MIDWAY_R17_SCUM1351_20261029",
   "role": "client",
   "profile": "COMMON_PVP_PVE",
-  "build": 26271977,
-  "version": "1.3.5.0.172191",
-  "pak_count": 64,
-  "registry_sha256": "d92e640c92b8fb76a07992aed5e880dd37512fc0ba13daaf27da522560539da4",
+  "build": 26280172,
+  "version": "1.3.5.1.172191+172352",
+  "pak_count": 65,
+  "registry_sha256": "08740889d5394a3be968633956b4940e88681460f714952b00a86583b41b3d21",
   "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
   "test_silver_trigger_included": false,
   "files": [
@@ -392,6 +392,13 @@
       "relative_path": "~mods/MIDWAY_R16/MIDWAY_RC_Network_R16_802_P.pak",
       "bytes": 11732,
       "sha256": "4cfda413a89838f762be091acb9dacc2e8602238bd6d5eca5e8c4034c5640df1"
+    },
+    {
+      "name": "MIDWAY_NetworkFactory_R17_803_P.pak",
+      "relative_path": "~mods/MIDWAY_R17/MIDWAY_NetworkFactory_R17_803_P.pak",
+      "bytes": 7824240,
+      "sha256": "798b9ed427d89fef9fcdb9b930569180714c4934f1bc19e36fe218304f667cad"
     }
-  ]
+  ],
+  "activation": "candidate_branch_not_active_launcher"
 }
