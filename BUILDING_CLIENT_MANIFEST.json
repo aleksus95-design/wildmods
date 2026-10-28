@@ -1,19 +1,15 @@
 {
-  "kind": "existing_client_pak_redistribution",
-  "date": "2026-10-26",
-  "build": "25804202",
+  "kind": "existing_client_pak_in_R16",
+  "date": "2026-10-28",
+  "build": 26271977,
   "file": {
     "name": "MIDWAY_BuildAnywhere_Compat_Q22_305_P.pak",
-    "path": "SCUM/Content/Paks/~mods/MIDWAY_Full/MIDWAY_BuildAnywhere_Compat_Q22_305_P.pak",
+    "path": "SCUM/Content/Paks/~mods/MIDWAY_R16/MIDWAY_BuildAnywhere_Compat_Q22_305_P.pak",
     "bytes": 919449,
     "sha256": "0012d6f0c71c02b48d1d96b8bc46d756927e7f1980dbad12b8708aea9692223c"
   },
   "base_client_required": true,
   "binary_changes": false,
   "user_confirmed_foundation_height": true,
-  "agent_native_height_test_completed": false,
-  "wall_free_height_verified": false,
-  "remote_servers_modified": false,
-  "client_modified": false,
-  "registry_changed": false
+  "wall_free_height_verified": false
 }
