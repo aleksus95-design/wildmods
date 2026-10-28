@@ -3,10 +3,10 @@
   "complete": true,
   "owner": "aleksus95-design",
   "repo": "wildmods",
-  "branch": "main",
-  "commit": "a620f4ebbb556ef3c3770a40170d1e4c22535fcd",
-  "file_count": 64,
-  "files_sha256": "e5e2378ec752dbee24c1baeb1c8d83f6e2ae9d0bc743f09b01d3995a478a2f9a",
+  "branch": "hotfix/r17-network-factory",
+  "commit": "1ff9d3e0c8f30f95eaf0a041b63622deadc2711b",
+  "file_count": 65,
+  "files_sha256": "5d6ddcce66d55e8c05950f3ba850dea9a55ac1ab8b0dc61d5bd3aba4e0dc5a73",
   "items": [
     {
       "path": "MIDWAY_R16/MIDWAY_ArrowLimits_TEST_R1_774_P.pak",
@@ -519,6 +519,14 @@
       "name": "zzzzzzzzzzz_SCUM_WeaponManualKit_B25804202_R8_304_P.pak",
       "lfs_oid": "8b299a88cf0e5daa5a11d9f418421895f38b3efaaa6acce8fac2033c2554d3fa",
       "lfs_size": 7990988
+    },
+    {
+      "path": "MIDWAY_R17/MIDWAY_NetworkFactory_R17_803_P.pak",
+      "size": 132,
+      "sha": "1ca0dddeea4936a6c08c8f09d9fe07983a1fb548",
+      "name": "MIDWAY_NetworkFactory_R17_803_P.pak",
+      "lfs_oid": "798b9ed427d89fef9fcdb9b930569180714c4934f1bc19e36fe218304f667cad",
+      "lfs_size": 7824240
     }
   ]
 }
