@@ -1,11 +1,11 @@
 {
-  "release": "MIDWAY_R23_TEST_20261029",
+  "release": "MIDWAY_PVE_R23_20261029",
   "role": "client",
-  "profile": "COMMON_PVP_PVE",
+  "profile": "PVE",
   "build": 26280172,
   "version": "1.3.5.1.172191+172352",
   "pak_count": 71,
-  "registry_sha256": "08740889d5394a3be968633956b4940e88681460f714952b00a86583b41b3d21",
+  "registry_sha256": "145e100cd24e2ee246b0bf36951811fbf41e59a2b70e6e5bfd9d17bccb457a5d",
   "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
   "test_silver_trigger_included": false,
   "files": [
@@ -436,5 +436,5 @@
       "sha256": "06e3665a289fcaae9913cd49b2b586b6117419e6a9bfe41054813312ecb2a87f"
     }
   ],
-  "activation": "TEST ONLY; production/main launcher remain R17 until gameplay acceptance"
+  "activation": "PvE authorized directly by owner; PvP and shared launcher remain R17; native gameplay pending"
 }
