@@ -1,7 +1,7 @@
 {
   "release": "MIDWAY_R23_CLIENT_20261029",
   "role": "client",
-  "profile": "PVE_R23_TEST_R23",
+  "profile": "COMMON_PVP_PVE_R23",
   "build": 26280172,
   "version": "1.3.5.1.172191+172352",
   "pak_count": 71,
@@ -436,5 +436,5 @@
       "sha256": "06e3665a289fcaae9913cd49b2b586b6117419e6a9bfe41054813312ecb2a87f"
     }
   ],
-  "activation": "current launcher R23; PvE and test R23 deployed; PvP R17 unchanged"
+  "activation": "PvE, PvP and test R23 deployed; current launcher R23; native two-player gameplay still pending"
 }
