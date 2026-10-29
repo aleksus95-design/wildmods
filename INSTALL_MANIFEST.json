@@ -1,10 +1,10 @@
 {
-  "release": "MIDWAY_R21_TEST_20261029",
+  "release": "MIDWAY_R23_TEST_20261029",
   "role": "client",
   "profile": "COMMON_PVP_PVE",
   "build": 26280172,
   "version": "1.3.5.1.172191+172352",
-  "pak_count": 70,
+  "pak_count": 71,
   "registry_sha256": "08740889d5394a3be968633956b4940e88681460f714952b00a86583b41b3d21",
   "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
   "test_silver_trigger_included": false,
@@ -428,6 +428,12 @@
       "relative_path": "~mods/MIDWAY_R21_TEST/MIDWAY_Spartan_Hazmat_R21_808_P.pak",
       "bytes": 57599,
       "sha256": "b308cff5777162d121ced1a4f6ff3b001107493549d604fdc6e58b8cab843fc4"
+    },
+    {
+      "name": "MIDWAY_Aircraft_Map_Shop_R23_810_P.pak",
+      "relative_path": "~mods/MIDWAY_R23_TEST/MIDWAY_Aircraft_Map_Shop_R23_810_P.pak",
+      "bytes": 256278,
+      "sha256": "06e3665a289fcaae9913cd49b2b586b6117419e6a9bfe41054813312ecb2a87f"
     }
   ],
   "activation": "TEST ONLY; production/main launcher remain R17 until gameplay acceptance"
