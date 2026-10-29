@@ -1,10 +1,10 @@
 {
-  "release": "MIDWAY_R17_SCUM1351_20261029",
+  "release": "MIDWAY_R18_TEST_20261029",
   "role": "client",
   "profile": "COMMON_PVP_PVE",
   "build": 26280172,
   "version": "1.3.5.1.172191+172352",
-  "pak_count": 65,
+  "pak_count": 66,
   "registry_sha256": "08740889d5394a3be968633956b4940e88681460f714952b00a86583b41b3d21",
   "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
   "test_silver_trigger_included": false,
@@ -398,7 +398,13 @@
       "relative_path": "~mods/MIDWAY_R17/MIDWAY_NetworkFactory_R17_803_P.pak",
       "bytes": 7824240,
       "sha256": "798b9ed427d89fef9fcdb9b930569180714c4934f1bc19e36fe218304f667cad"
+    },
+    {
+      "name": "MIDWAY_Network_Building_R18_804_P.pak",
+      "relative_path": "~mods/MIDWAY_R18/MIDWAY_Network_Building_R18_804_P.pak",
+      "bytes": 927947,
+      "sha256": "17021d3c32c8890c879a0b14160e23ea6ad98eec5947a2d9bef24f6b4ea580f4"
     }
   ],
-  "activation": "current_R17_client_requires_matching_R17_server"
+  "activation": "TEST_ONLY; production remains R17 until gameplay acceptance"
 }
