@@ -400,5 +400,5 @@
       "sha256": "798b9ed427d89fef9fcdb9b930569180714c4934f1bc19e36fe218304f667cad"
     }
   ],
-  "activation": "candidate_branch_not_active_launcher"
+  "activation": "current_R17_client_requires_matching_R17_server"
 }
