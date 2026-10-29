@@ -4,7 +4,7 @@
   "profile": "COMMON_PVP_PVE",
   "build": 26280172,
   "version": "1.3.5.1.172191+172352",
-  "pak_count": 66,
+  "pak_count": 67,
   "registry_sha256": "08740889d5394a3be968633956b4940e88681460f714952b00a86583b41b3d21",
   "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
   "test_silver_trigger_included": false,
@@ -404,6 +404,12 @@
       "relative_path": "~mods/MIDWAY_R18/MIDWAY_Network_Building_R18_804_P.pak",
       "bytes": 927947,
       "sha256": "17021d3c32c8890c879a0b14160e23ea6ad98eec5947a2d9bef24f6b4ea580f4"
+    },
+    {
+      "name": "MIDWAY_Menu_NoInsert_R18B_805_P.pak",
+      "relative_path": "~mods/MIDWAY_R18/MIDWAY_Menu_NoInsert_R18B_805_P.pak",
+      "bytes": 3838,
+      "sha256": "eefa8ef7c02147c117ef6607c2d4dd6d31795079c163edb8e4a514212f11ed7e"
     }
   ],
   "activation": "TEST_ONLY; production remains R17 until gameplay acceptance"
