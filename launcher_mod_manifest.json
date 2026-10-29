@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "5346465eb518ec78ce95a7e87bb0da2f49a927ff",
-  "file_count": 65,
-  "files_sha256": "5d6ddcce66d55e8c05950f3ba850dea9a55ac1ab8b0dc61d5bd3aba4e0dc5a73",
+  "commit": "0780483032a38bc6e69aea3e1274f6d3283316a4",
+  "file_count": 71,
+  "files_sha256": "5617e674e58d0534ce2fc1acd6121ff203735ec0f54835d7f07d5aabcbcfc85d",
   "items": [
     {
       "path": "MIDWAY_R16/MIDWAY_ArrowLimits_TEST_R1_774_P.pak",
@@ -186,11 +186,11 @@
     },
     {
       "path": "MIDWAY_R16/MIDWAY_MapZoom_RU_R1_772_P.pak",
-      "size": 132,
-      "sha": "37a71e769c85a7249da5dabd6470d4920d2409a2",
+      "size": 130,
+      "sha": "a1bb281b81d8b3236df43389bc2c7c0a3aaa7bed",
       "name": "MIDWAY_MapZoom_RU_R1_772_P.pak",
-      "lfs_oid": "4a9a0e869f96bbb04555425b3309c7ee1a9bac1ee39dc9e67871408a5d68a1e0",
-      "lfs_size": 4005506
+      "lfs_oid": "52e303824809222ae8976848bf0a22c0fefc52d6619cb74c8cf4b24198df7b77",
+      "lfs_size": 16846
     },
     {
       "path": "MIDWAY_R16/MIDWAY_MemoryModules_B25804202_R54_265_P.pak",
@@ -527,6 +527,54 @@
       "name": "MIDWAY_NetworkFactory_R17_803_P.pak",
       "lfs_oid": "798b9ed427d89fef9fcdb9b930569180714c4934f1bc19e36fe218304f667cad",
       "lfs_size": 7824240
+    },
+    {
+      "path": "MIDWAY_R18/MIDWAY_Menu_NoInsert_R18B_805_P.pak",
+      "size": 129,
+      "sha": "7a64f3d67703ed9e9b8cb398afeb8aeabe469536",
+      "name": "MIDWAY_Menu_NoInsert_R18B_805_P.pak",
+      "lfs_oid": "eefa8ef7c02147c117ef6607c2d4dd6d31795079c163edb8e4a514212f11ed7e",
+      "lfs_size": 3838
+    },
+    {
+      "path": "MIDWAY_R18/MIDWAY_Network_Building_R18_804_P.pak",
+      "size": 131,
+      "sha": "812f18868690048650c29cdfa54de2fb342cbcf4",
+      "name": "MIDWAY_Network_Building_R18_804_P.pak",
+      "lfs_oid": "17021d3c32c8890c879a0b14160e23ea6ad98eec5947a2d9bef24f6b4ea580f4",
+      "lfs_size": 927947
+    },
+    {
+      "path": "MIDWAY_R21_TEST/MIDWAY_Map_R20_807_P.pak",
+      "size": 130,
+      "sha": "e1ea1c76acee2190087edaf53ee2c9d7fb566161",
+      "name": "MIDWAY_Map_R20_807_P.pak",
+      "lfs_oid": "3fca3da29f2cc0bc08e0fe9318efa1b8cc1c52266a5639bea44733a90055022d",
+      "lfs_size": 19539
+    },
+    {
+      "path": "MIDWAY_R21_TEST/MIDWAY_Shop_R19_806_P.pak",
+      "size": 132,
+      "sha": "d3896a029c71706951b2a0588c9bc72502f2345f",
+      "name": "MIDWAY_Shop_R19_806_P.pak",
+      "lfs_oid": "e1092183559005f737e31e99764e0a1f88e8a654037a676b5463520bd03ae9e4",
+      "lfs_size": 7990757
+    },
+    {
+      "path": "MIDWAY_R21_TEST/MIDWAY_Spartan_Hazmat_R21_808_P.pak",
+      "size": 130,
+      "sha": "d25f04aca382830333dccedfa60394821aa2c830",
+      "name": "MIDWAY_Spartan_Hazmat_R21_808_P.pak",
+      "lfs_oid": "b308cff5777162d121ced1a4f6ff3b001107493549d604fdc6e58b8cab843fc4",
+      "lfs_size": 57599
+    },
+    {
+      "path": "MIDWAY_R23_TEST/MIDWAY_Aircraft_Map_Shop_R23_810_P.pak",
+      "size": 131,
+      "sha": "caac674df7125044fd8d7d0a19842ea8268aae56",
+      "name": "MIDWAY_Aircraft_Map_Shop_R23_810_P.pak",
+      "lfs_oid": "06e3665a289fcaae9913cd49b2b586b6117419e6a9bfe41054813312ecb2a87f",
+      "lfs_size": 256278
     }
   ]
 }
