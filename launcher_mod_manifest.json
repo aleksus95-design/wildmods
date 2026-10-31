@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "57e0a362afc6511f4161c58fbd623685acf610fb",
+  "commit": "1c8b7c1946697db41c34e97ed992aca741a6e609",
   "file_count": 87,
-  "files_sha256": "66b99e0a1153279210a4838bf9018d81595436cdf83e2ac321bddadc4f439757",
+  "files_sha256": "70da6b4cefa5b053acb4173f077e4ba3a0b41194a65bb6caac3dc760acb8f7f2",
   "items": [
     {
       "path": "MIDWAY_R16/MIDWAY_ArrowLimits_TEST_R1_774_P.pak",
@@ -673,14 +673,6 @@
       "lfs_size": 26816
     },
     {
-      "path": "MIDWAY_R42/MIDWAY_Horse_Feeding_R42_837_P.pak",
-      "size": 130,
-      "sha": "615f9b7074cf0145835087eae0e3100df707bddf",
-      "name": "MIDWAY_Horse_Feeding_R42_837_P.pak",
-      "lfs_oid": "acf890a508c23f2275a4069ebcaba76879891f6b5d93eb0fcf411909c1f6ed01",
-      "lfs_size": 25477
-    },
-    {
       "path": "MIDWAY_R42/MIDWAY_Scout_Pickup_R42_836_P.pak",
       "size": 129,
       "sha": "fa36ae76acc0ecb685d4a326d1ef43ff177f9645",
@@ -703,6 +695,14 @@
       "name": "MIDWAY_Chest_ShortName_R44_839_P.pak",
       "lfs_oid": "e0175eb7659851c08c74b12c500653f98285fa98f76b05bb9b5b1dacbbd6e2e7",
       "lfs_size": 16143
+    },
+    {
+      "path": "MIDWAY_R46/MIDWAY_Horse_Feeding_R46_841_P.pak",
+      "size": 130,
+      "sha": "082c1e915b1e3f6231798d608d5db75bdcb71773",
+      "name": "MIDWAY_Horse_Feeding_R46_841_P.pak",
+      "lfs_oid": "ef829b79f4f6a8f4368bdf8e1b692d3266522136650652410dcc13121823aa9d",
+      "lfs_size": 25899
     }
   ]
 }
