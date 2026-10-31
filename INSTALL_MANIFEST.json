@@ -1,5 +1,5 @@
 {
-  "release": "MIDWAY_R44_CLIENT_20261031",
+  "release": "MIDWAY_R46_CLIENT_20261031",
   "role": "client",
   "profile": "COMMON_PVE_PVP",
   "build": 26320533,
@@ -7,11 +7,11 @@
   "pak_count": 87,
   "registry_sha256": "d26ddd5556e1aaf80831d7d3ac48944d83b8e4675a27b1efa3cd7fb077e28f18",
   "config_sha256": "2db0d6c698e8aa8c1ffee9114070adc17a70ec5b81abb5625495c4ad49a48c97",
-  "activation": "New aliases activate after client/server restart; original chest identity unchanged",
+  "activation": "Server file activates after the next server restart; no server stop or restart is performed by this rollout",
   "native_multiplayer_verified": false,
   "public_distribution_authorized": true,
-  "retained_old_paths": true,
-  "release_scope": "Common PvE/PvP client; R43 + short aliases for existing military chest",
+  "retained_old_paths": false,
+  "release_scope": "R44 client with R42 horse feeding replaced by network-tested R46; all other PAKs retained",
   "server_only_test_frequency_included": false,
   "files": [
     {
@@ -519,12 +519,6 @@
       "sha256": "6c3a02ae08d86130410b33d622ba65a317e6b22ea763c1f6d42723c4fdff963c"
     },
     {
-      "name": "MIDWAY_Horse_Feeding_R42_837_P.pak",
-      "relative_path": "~mods/MIDWAY_R42/MIDWAY_Horse_Feeding_R42_837_P.pak",
-      "bytes": 25477,
-      "sha256": "acf890a508c23f2275a4069ebcaba76879891f6b5d93eb0fcf411909c1f6ed01"
-    },
-    {
       "name": "MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
       "relative_path": "~mods/MIDWAY_R43_TEST/MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
       "bytes": 764939,
@@ -535,6 +529,14 @@
       "relative_path": "~mods/MIDWAY_R44/MIDWAY_Chest_ShortName_R44_839_P.pak",
       "bytes": 16143,
       "sha256": "e0175eb7659851c08c74b12c500653f98285fa98f76b05bb9b5b1dacbbd6e2e7"
+    },
+    {
+      "name": "MIDWAY_Horse_Feeding_R46_841_P.pak",
+      "relative_path": "~mods/MIDWAY_R46/MIDWAY_Horse_Feeding_R46_841_P.pak",
+      "bytes": 25899,
+      "sha256": "ef829b79f4f6a8f4368bdf8e1b692d3266522136650652410dcc13121823aa9d"
     }
-  ]
+  ],
+  "horse_feeding_multiplayer_confirmed": true,
+  "horse_feeding_confirmation_scope": "Apple consumed and feed increased on the dedicated test server; broader pack acceptance unchanged"
 }

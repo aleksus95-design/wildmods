@@ -1,6 +1,7 @@
 {
-  "state": "OWNER_AUTHORIZED_CONFIG_ALIAS",
+  "state": "OWNER_AUTHORIZED_NETWORK_TESTED_HORSE_FEEDING",
   "publish_allowed": true,
-  "native_multiplayer_verified": false,
+  "horse_feeding_multiplayer_confirmed": true,
+  "whole_pack_retested": false,
   "stop_or_restart_requested": false
 }
