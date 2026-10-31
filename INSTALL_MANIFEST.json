@@ -1,17 +1,17 @@
 {
-  "release": "MIDWAY_R40_CLIENT_20261031",
+  "release": "MIDWAY_R43_CLIENT_20261031",
   "role": "client",
   "profile": "COMMON_PVE_PVP",
   "build": 26320533,
   "version": "1.3.5.2.172724+172352",
-  "pak_count": 83,
+  "pak_count": 86,
   "registry_sha256": "d26ddd5556e1aaf80831d7d3ac48944d83b8e4675a27b1efa3cd7fb077e28f18",
   "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
-  "activation": "Owner-authorized coordinated R40 rollout; use matching server R40",
+  "activation": "Owner-authorized R42/R43 hotfix; server files uploaded without stopping, activate on next server restart",
   "native_multiplayer_verified": false,
   "public_distribution_authorized": true,
   "retained_old_paths": true,
-  "release_scope": "Client for matched PvE/PvP R40 servers",
+  "release_scope": "Common PvE/PvP client; R40 baseline + three additive hotfixes",
   "server_only_test_frequency_included": false,
   "files": [
     {
@@ -511,6 +511,24 @@
       "relative_path": "~mods/MIDWAY_R16/MIDWAY_TransportPaint_TEST_R1_778_P.pak",
       "bytes": 6484366,
       "sha256": "85bd1e3c2dc844a3ea5f40d7eba1148cd8348588d714c640d56c56d054fd0c79"
+    },
+    {
+      "name": "MIDWAY_Scout_Pickup_R42_836_P.pak",
+      "relative_path": "~mods/MIDWAY_R42/MIDWAY_Scout_Pickup_R42_836_P.pak",
+      "bytes": 9275,
+      "sha256": "6c3a02ae08d86130410b33d622ba65a317e6b22ea763c1f6d42723c4fdff963c"
+    },
+    {
+      "name": "MIDWAY_Horse_Feeding_R42_837_P.pak",
+      "relative_path": "~mods/MIDWAY_R42/MIDWAY_Horse_Feeding_R42_837_P.pak",
+      "bytes": 25477,
+      "sha256": "acf890a508c23f2275a4069ebcaba76879891f6b5d93eb0fcf411909c1f6ed01"
+    },
+    {
+      "name": "MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
+      "relative_path": "~mods/MIDWAY_R43_TEST/MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
+      "bytes": 764939,
+      "sha256": "05d71ff39723db03fd64cea1506868b925c3f023067728cb9ca1061ef1fbfc63"
     }
   ]
 }

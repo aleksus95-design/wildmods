@@ -1,5 +1,6 @@
 {
-  "state": "OWNER_AUTHORIZED",
+  "state": "OWNER_AUTHORIZED_ADDITIVE_HOTFIX",
   "publish_allowed": true,
-  "native_multiplayer_verified": false
+  "native_multiplayer_verified": false,
+  "stop_or_restart_requested": false
 }
