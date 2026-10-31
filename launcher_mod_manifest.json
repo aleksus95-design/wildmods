@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "329c141f5ded9ef434a43ccc373c9ab55d92f0d4",
-  "file_count": 83,
-  "files_sha256": "58ec387c5fece95f57af903fae61a3ca6b09a81fcc139cc5faf9049ae0325983",
+  "commit": "707e94cb6ef0adef0bea730f4a3d7128b31c0cde",
+  "file_count": 86,
+  "files_sha256": "3473a450cda8d0b474944c6d392cfb52c0fb51f1d57c6e050b1f0743075a73ca",
   "items": [
     {
       "path": "MIDWAY_R16/MIDWAY_ArrowLimits_TEST_R1_774_P.pak",
@@ -671,6 +671,30 @@
       "name": "MIDWAY_V22_Ramp_Client_R24_TEST_811_P.pak",
       "lfs_oid": "e8dfb4053bd3794a9eb15adb4672fa52de255010d966482bc4a9ee640312a615",
       "lfs_size": 26816
+    },
+    {
+      "path": "MIDWAY_R42/MIDWAY_Horse_Feeding_R42_837_P.pak",
+      "size": 130,
+      "sha": "615f9b7074cf0145835087eae0e3100df707bddf",
+      "name": "MIDWAY_Horse_Feeding_R42_837_P.pak",
+      "lfs_oid": "acf890a508c23f2275a4069ebcaba76879891f6b5d93eb0fcf411909c1f6ed01",
+      "lfs_size": 25477
+    },
+    {
+      "path": "MIDWAY_R42/MIDWAY_Scout_Pickup_R42_836_P.pak",
+      "size": 129,
+      "sha": "fa36ae76acc0ecb685d4a326d1ef43ff177f9645",
+      "name": "MIDWAY_Scout_Pickup_R42_836_P.pak",
+      "lfs_oid": "6c3a02ae08d86130410b33d622ba65a317e6b22ea763c1f6d42723c4fdff963c",
+      "lfs_size": 9275
+    },
+    {
+      "path": "MIDWAY_R43_TEST/MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
+      "size": 131,
+      "sha": "3e2cc7f09bca8fed1b808b445d3d98975323cda2",
+      "name": "MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
+      "lfs_oid": "05d71ff39723db03fd64cea1506868b925c3f023067728cb9ca1061ef1fbfc63",
+      "lfs_size": 764939
     }
   ]
 }
