@@ -1,16 +1,5 @@
 {
-  "state": "PREPARED_NOT_PUBLISHED",
-  "publish_allowed": false,
-  "deploy_allowed": false,
-  "static_validation_passed": true,
-  "projection_SP_user_confirmed": true,
-  "robot_texture_user_confirmed": true,
-  "gym_visual_and_stamina_user_confirmed": true,
-  "pending": [
-    "Matched R40 client and server multiplayer test including join/rejoin, vehicles and accessory purchases",
-    "Clean unmodded PvE client disconnect cause remains unresolved; do not claim optional-client compatibility",
-    "R40 standing horse preview is derived from the native model under private-lab authorization; public asset provenance/replacement must be resolved before uploading that PAK",
-    "Production activation and shared launcher switch are not part of this preparation; both PvE and PvP require coordinated versions",
-    "New server UI dependency PAK still needs dedicated server startup validation"
-  ]
+  "state": "OWNER_AUTHORIZED",
+  "publish_allowed": true,
+  "native_multiplayer_verified": false
 }

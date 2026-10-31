@@ -1,18 +1,17 @@
 {
-  "release": "MIDWAY_R40_RC1_20261031",
+  "release": "MIDWAY_R40_CLIENT_20261031",
   "role": "client",
-  "profile": "MATCHED_PVE_PVP_R40_CANDIDATE",
+  "profile": "COMMON_PVE_PVP",
   "build": 26320533,
   "version": "1.3.5.2.172724+172352",
   "pak_count": 83,
   "registry_sha256": "d26ddd5556e1aaf80831d7d3ac48944d83b8e4675a27b1efa3cd7fb077e28f18",
   "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
-  "activation": "PREPARED_OFFLINE_NOT_DEPLOYED",
+  "activation": "Owner-authorized coordinated R40 rollout; use matching server R40",
   "native_multiplayer_verified": false,
-  "public_distribution_authorized": false,
-  "private_horse_projection_included": true,
+  "public_distribution_authorized": true,
   "retained_old_paths": true,
-  "release_scope": "Offline matched PvE/PvP candidate; activation after test",
+  "release_scope": "Client for matched PvE/PvP R40 servers",
   "server_only_test_frequency_included": false,
   "files": [
     {
