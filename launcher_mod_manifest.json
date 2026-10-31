@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "707e94cb6ef0adef0bea730f4a3d7128b31c0cde",
-  "file_count": 86,
-  "files_sha256": "3473a450cda8d0b474944c6d392cfb52c0fb51f1d57c6e050b1f0743075a73ca",
+  "commit": "57e0a362afc6511f4161c58fbd623685acf610fb",
+  "file_count": 87,
+  "files_sha256": "66b99e0a1153279210a4838bf9018d81595436cdf83e2ac321bddadc4f439757",
   "items": [
     {
       "path": "MIDWAY_R16/MIDWAY_ArrowLimits_TEST_R1_774_P.pak",
@@ -695,6 +695,14 @@
       "name": "MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
       "lfs_oid": "05d71ff39723db03fd64cea1506868b925c3f023067728cb9ca1061ef1fbfc63",
       "lfs_size": 764939
+    },
+    {
+      "path": "MIDWAY_R44/MIDWAY_Chest_ShortName_R44_839_P.pak",
+      "size": 130,
+      "sha": "6972d59e3ad0f910dd8bb3cf3b38df01b2486acd",
+      "name": "MIDWAY_Chest_ShortName_R44_839_P.pak",
+      "lfs_oid": "e0175eb7659851c08c74b12c500653f98285fa98f76b05bb9b5b1dacbbd6e2e7",
+      "lfs_size": 16143
     }
   ]
 }
