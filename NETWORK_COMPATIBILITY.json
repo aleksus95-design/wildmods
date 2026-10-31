@@ -1,0 +1,10 @@
+{
+  "shared_blueprints": 2525,
+  "byte_identical_shared_blueprints": 2515,
+  "registry_sha256": "d26ddd5556e1aaf80831d7d3ac48944d83b8e4675a27b1efa3cd7fb077e28f18",
+  "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
+  "registry_byte_equal": true,
+  "config_byte_equal": true,
+  "native_multiplayer_verified": false,
+  "pass_static": true
+}

@@ -1,3 +1,5 @@
 @echo off
 python "%~dp0verify_files.py" %*
-exit /b %errorlevel%
+set "MWVerifyResult=%errorlevel%"
+pause
+exit /b %MWVerifyResult%
