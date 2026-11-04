@@ -1,0 +1,101 @@
+{
+  "CLIENT": {
+    "before": 107,
+    "after": 99,
+    "removed": [
+      {
+        "name": "MIDWAY_GhostLock_B25804202_R1_755_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R16/MIDWAY_GhostLock_B25804202_R1_755_P.pak",
+        "bytes": 11615,
+        "sha256": "3c5849efa1811d0af1ff9ff8a9e223f716e547830f4bf2af65a9e67fd3b85b89"
+      },
+      {
+        "name": "MIDWAY_MODPlus_TEST_M12_612_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R16/MIDWAY_MODPlus_TEST_M12_612_P.pak",
+        "bytes": 258425,
+        "sha256": "0af950c767440db91e72eabd2069e3359d9d496a7be9b3bbfc1597433b7dac4b"
+      },
+      {
+        "name": "MIDWAY_RCCar_R1_770_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R16/MIDWAY_RCCar_R1_770_P.pak",
+        "bytes": 20748371,
+        "sha256": "3c995bb941bb990ea3f66f835fa62b8d2fa464869ce950798209448d40a9ee62"
+      },
+      {
+        "name": "MIDWAY_SkylinePushLock_TEST_R1_775_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R16/MIDWAY_SkylinePushLock_TEST_R1_775_P.pak",
+        "bytes": 26397,
+        "sha256": "c0e18e26513592e02e045fa816007132d7282d5caeec40db61a25b509d650743"
+      },
+      {
+        "name": "MIDWAY_VehicleRighting_B25804202_R1_757_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R16/MIDWAY_VehicleRighting_B25804202_R1_757_P.pak",
+        "bytes": 96921,
+        "sha256": "20b6f94b1da2aa9d13d802af24fa965cefd6ce98283939313d25c5fde95c37f1"
+      },
+      {
+        "name": "MIDWAY_Horse_Feeding_B26320533_R35_TEST_827_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R40/MIDWAY_Horse_Feeding_B26320533_R35_TEST_827_P.pak",
+        "bytes": 24261,
+        "sha256": "b71d4e930463d8bdcb34753c5004e1d3f2ce574e8d987d8b20f63f7b1a15510f"
+      },
+      {
+        "name": "MIDWAY_V22_Ramp_Client_R24_TEST_811_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R40/MIDWAY_V22_Ramp_Client_R24_TEST_811_P.pak",
+        "bytes": 26816,
+        "sha256": "e8dfb4053bd3794a9eb15adb4672fa52de255010d966482bc4a9ee640312a615"
+      },
+      {
+        "name": "MIDWAY_Chest_ShortName_R44_839_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R44/MIDWAY_Chest_ShortName_R44_839_P.pak",
+        "bytes": 16143,
+        "sha256": "e0175eb7659851c08c74b12c500653f98285fa98f76b05bb9b5b1dacbbd6e2e7"
+      }
+    ],
+    "removed_bytes": 21208949,
+    "all_effective_bytes_equal": true,
+    "effective_files": 14435,
+    "roots": {
+      "../../../SCUM/AssetRegistry.bin": "9bd34a98acdbf3353cc802511328ad5f805b9c8e22590c98123635cc88782c87",
+      "../../../SCUM/Config/Windows/WindowsGame.ini": "c041da75480dc833d74556b7347f343d95c241826b8b860ea6ad8bfaa13650ff"
+    }
+  },
+  "PVE": {
+    "before": 98,
+    "after": 97,
+    "removed": [
+      {
+        "name": "MIDWAY_V22_Ramp_Client_R24_TEST_811_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R79_RELEASE/MIDWAY_V22_Ramp_Client_R24_TEST_811_P.pak",
+        "bytes": 26816,
+        "sha256": "e8dfb4053bd3794a9eb15adb4672fa52de255010d966482bc4a9ee640312a615"
+      }
+    ],
+    "removed_bytes": 26816,
+    "all_effective_bytes_equal": true,
+    "effective_files": 13261,
+    "roots": {
+      "../../../SCUM/AssetRegistry.bin": "9bd34a98acdbf3353cc802511328ad5f805b9c8e22590c98123635cc88782c87",
+      "../../../SCUM/Config/Windows/WindowsGame.ini": "c041da75480dc833d74556b7347f343d95c241826b8b860ea6ad8bfaa13650ff"
+    }
+  },
+  "PVP": {
+    "before": 98,
+    "after": 97,
+    "removed": [
+      {
+        "name": "MIDWAY_V22_Ramp_Client_R24_TEST_811_P.pak",
+        "path": "SCUM/Content/Paks/~mods/MIDWAY_R79_RELEASE/MIDWAY_V22_Ramp_Client_R24_TEST_811_P.pak",
+        "bytes": 26816,
+        "sha256": "e8dfb4053bd3794a9eb15adb4672fa52de255010d966482bc4a9ee640312a615"
+      }
+    ],
+    "removed_bytes": 26816,
+    "all_effective_bytes_equal": true,
+    "effective_files": 13265,
+    "roots": {
+      "../../../SCUM/AssetRegistry.bin": "9bd34a98acdbf3353cc802511328ad5f805b9c8e22590c98123635cc88782c87",
+      "../../../SCUM/Config/Windows/WindowsGame.ini": "c041da75480dc833d74556b7347f343d95c241826b8b860ea6ad8bfaa13650ff"
+    }
+  }
+}

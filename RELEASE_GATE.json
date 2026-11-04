@@ -1,14 +1,11 @@
 {
-  "state": "PREPARED_FOR_COORDINATED_ROLLOUT",
-  "activate_now": false,
-  "client_paks": 107,
-  "server_profiles": [
-    "PVE23629",
-    "PVP23297"
-  ],
+  "state": "OWNER_AUTHORIZED_GITHUB_RELEASE",
+  "publish_allowed": true,
+  "client_paks": 99,
+  "production_activation": "Requires coordinated matching server update",
+  "all_gameplay_verified": false,
   "known_unresolved": [
-    "ZIL driver slot",
-    "historical heartbeat disconnects"
-  ],
-  "native_multiplayer_all_features_verified": false
+    "ZIL stale driver slot",
+    "Historical heartbeat disconnects"
+  ]
 }
