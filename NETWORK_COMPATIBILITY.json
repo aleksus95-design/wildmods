@@ -1,10 +1,80 @@
 {
-  "shared_blueprints": 2525,
-  "byte_identical_shared_blueprints": 2515,
-  "registry_sha256": "d26ddd5556e1aaf80831d7d3ac48944d83b8e4675a27b1efa3cd7fb077e28f18",
-  "config_sha256": "37d8da4bb20cf85ffb02811180a04698ff3e14565f217db26bd6d13d2f3e4d18",
-  "registry_byte_equal": true,
-  "config_byte_equal": true,
-  "native_multiplayer_verified": false,
-  "pass_static": true
+  "registry_sha256": "9bd34a98acdbf3353cc802511328ad5f805b9c8e22590c98123635cc88782c87",
+  "config_sha256": "c041da75480dc833d74556b7347f343d95c241826b8b860ea6ad8bfaa13650ff",
+  "audit": {
+    "shared_blueprints": 2782,
+    "variant_comparisons": [
+      {
+        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Wall_Flag_Basic.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      },
+      {
+        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Wall_Flag_Premium.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      },
+      {
+        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Work_Drillpress_01.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      },
+      {
+        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Work_Drillpress_02.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      },
+      {
+        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Work_Lathe_Machine_01.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      },
+      {
+        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Microwave.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      },
+      {
+        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Refrigerator.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      },
+      {
+        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Refrigerator_Unusable.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      },
+      {
+        "path": "../../../SCUM/Content/MIDWAYGhost/Runtime/BP_GhostRuntime.uasset",
+        "differences": [],
+        "local_non_rpc_variables": [
+          [
+            "ThermalCaptureFrame",
+            "LoadedProperties"
+          ]
+        ]
+      },
+      {
+        "path": "../../../SCUM/Content/MIDWAYThermal/Runtime/BP_ThermalRuntime.uasset",
+        "differences": [],
+        "local_non_rpc_variables": [
+          [
+            "ThermalCaptureFrame",
+            "LoadedProperties"
+          ]
+        ]
+      },
+      {
+        "path": "../../../SCUM/Content/MW/Map/BPC_MWMapSquad.uasset",
+        "differences": [],
+        "local_non_rpc_variables": []
+      }
+    ],
+    "contract_errors": [],
+    "registry_equal": true,
+    "config_equal": true,
+    "gameplay_retested": false
+  },
+  "r6h18_dedicated_qa": true,
+  "full_feature_gameplay_retested": false
 }

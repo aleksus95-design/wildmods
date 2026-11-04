@@ -1,7 +1,14 @@
 {
-  "state": "OWNER_AUTHORIZED_NETWORK_TESTED_HORSE_FEEDING",
-  "publish_allowed": true,
-  "horse_feeding_multiplayer_confirmed": true,
-  "whole_pack_retested": false,
-  "stop_or_restart_requested": false
+  "state": "PREPARED_FOR_COORDINATED_ROLLOUT",
+  "activate_now": false,
+  "client_paks": 107,
+  "server_profiles": [
+    "PVE23629",
+    "PVP23297"
+  ],
+  "known_unresolved": [
+    "ZIL driver slot",
+    "historical heartbeat disconnects"
+  ],
+  "native_multiplayer_all_features_verified": false
 }
