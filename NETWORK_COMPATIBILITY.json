@@ -1,80 +1,17 @@
 {
-  "registry_sha256": "9bd34a98acdbf3353cc802511328ad5f805b9c8e22590c98123635cc88782c87",
+  "build": 26593778,
+  "registry_sha256": "d192f57f1b67e92acd6aa285a8f39bd09eddfe1767862387f0cdffdc31c384a1",
   "config_sha256": "c041da75480dc833d74556b7347f343d95c241826b8b860ea6ad8bfaa13650ff",
-  "audit": {
-    "shared_blueprints": 2782,
-    "variant_comparisons": [
-      {
-        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Wall_Flag_Basic.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      },
-      {
-        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Wall_Flag_Premium.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      },
-      {
-        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Work_Drillpress_01.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      },
-      {
-        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Work_Drillpress_02.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      },
-      {
-        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Active_Items/Work_Lathe_Machine_01.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      },
-      {
-        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Microwave.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      },
-      {
-        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Refrigerator.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      },
-      {
-        "path": "../../../SCUM/Content/ConZ_Files/Items/Equipment/Refrigerator_Unusable.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      },
-      {
-        "path": "../../../SCUM/Content/MIDWAYGhost/Runtime/BP_GhostRuntime.uasset",
-        "differences": [],
-        "local_non_rpc_variables": [
-          [
-            "ThermalCaptureFrame",
-            "LoadedProperties"
-          ]
-        ]
-      },
-      {
-        "path": "../../../SCUM/Content/MIDWAYThermal/Runtime/BP_ThermalRuntime.uasset",
-        "differences": [],
-        "local_non_rpc_variables": [
-          [
-            "ThermalCaptureFrame",
-            "LoadedProperties"
-          ]
-        ]
-      },
-      {
-        "path": "../../../SCUM/Content/MW/Map/BPC_MWMapSquad.uasset",
-        "differences": [],
-        "local_non_rpc_variables": []
-      }
-    ],
-    "contract_errors": [],
-    "registry_equal": true,
-    "config_equal": true,
-    "gameplay_retested": false
-  },
-  "r6h18_dedicated_qa": true,
-  "full_feature_gameplay_retested": false
+  "matching_servers_required": [
+    23629,
+    23297
+  ],
+  "production_server_final_audit_pending": false,
+  "production_runtime_verified": false,
+  "test1603_user_confirmed_world_modplus_minimap_and_network_join": true,
+  "test1603_is_a_different_feature_profile": true,
+  "production_dependency_graph": "GO_STATIC",
+  "missing_hard_packages": 0,
+  "missing_exports": 0,
+  "production_deployment_status": "Recorded separately in release deployment status"
 }
