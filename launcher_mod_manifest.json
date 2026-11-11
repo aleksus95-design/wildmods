@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "5f2864fcfe1ed96a7f0f87e839f945810af5034a",
-  "file_count": 99,
-  "files_sha256": "2a1a69a68416547e20ae37b8f418e866ae5a341c7e0cb959f1ff18fdcd4d6006",
+  "commit": "65ffa79c2c50a33b6f431792c0550a9447eb8c5f",
+  "file_count": 100,
+  "files_sha256": "55b4a6fd0fe3f6dee96cee88bd192328280177d6e4b60049e519989c642aba8e",
   "items": [
     {
       "path": "MIDWAY_Chest_R68_TEST/MIDWAY_Chest_Shadow_Client_B26320533_R68_TEST_866_P.pak",
@@ -31,6 +31,14 @@
       "name": "MIDWAY_Vehicle_Navigation_B26320533_R71_TEST_869_P.pak",
       "lfs_oid": "9d40e5f520d988e50646bfc886fa9da52055e9de77443e84075bf0e3efbb2234",
       "lfs_size": 17548
+    },
+    {
+      "path": "MIDWAY_Nov136_PROD/MIDWAY_Nov136_Compat_CLIENT_R1_1703_P.pak",
+      "size": 133,
+      "sha": "11701aafa6317f2c561b2b775f053d99b4396ead",
+      "name": "MIDWAY_Nov136_Compat_CLIENT_R1_1703_P.pak",
+      "lfs_oid": "b1d09eb396c44e89f5d54fcb84b2bbaeaf7a9bd0cdb483acc8105585262b74d8",
+      "lfs_size": 13420188
     },
     {
       "path": "MIDWAY_R16/MIDWAY_ArrowLimits_TEST_R1_774_P.pak",
@@ -73,12 +81,12 @@
       "lfs_size": 914
     },
     {
-      "path": "MIDWAY_R16/MIDWAY_Client_FULL_B25804202_R19_225_P.pak",
+      "path": "MIDWAY_R16/MIDWAY_Client_FULL_B26593778_R20_225_P.pak",
       "size": 134,
-      "sha": "0e6b19321119c3af4adfd4d7cc4132394ec11d98",
-      "name": "MIDWAY_Client_FULL_B25804202_R19_225_P.pak",
-      "lfs_oid": "d9a15db06ebf7ccbaebefbb21dbac00e24a4cf6026b494d33004e8a27ae819b2",
-      "lfs_size": 860004641
+      "sha": "180fcee4929f848f54ddee6af3fed2fb5db0721f",
+      "name": "MIDWAY_Client_FULL_B26593778_R20_225_P.pak",
+      "lfs_oid": "8ab2216de37ded0d456d53f9aa2062cc0d4a57e4959e8d50f285afb6a1815ebe",
+      "lfs_size": 859262034
     },
     {
       "path": "MIDWAY_R16/MIDWAY_CoinLootTable_R9_617_P.pak",
