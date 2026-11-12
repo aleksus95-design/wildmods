@@ -1,17 +1,14 @@
 {
-  "build": 26593778,
-  "registry_sha256": "d192f57f1b67e92acd6aa285a8f39bd09eddfe1767862387f0cdffdc31c384a1",
-  "config_sha256": "c041da75480dc833d74556b7347f343d95c241826b8b860ea6ad8bfaa13650ff",
-  "matching_servers_required": [
-    23629,
-    23297
-  ],
-  "production_server_final_audit_pending": false,
-  "production_runtime_verified": false,
-  "test1603_user_confirmed_world_modplus_minimap_and_network_join": true,
-  "test1603_is_a_different_feature_profile": true,
-  "production_dependency_graph": "GO_STATIC",
-  "missing_hard_packages": 0,
-  "missing_exports": 0,
-  "production_deployment_status": "Recorded separately in release deployment status"
+  "game_build": "26621909",
+  "server_build": "26621903",
+  "registry": {
+    "pass": true,
+    "native_rows": 127643,
+    "output_rows": 133527,
+    "custom_rows": 5884,
+    "native_dependency_graph_exact": true,
+    "serialized_readback_exact": true
+  },
+  "runtime_status": "Recorded separately in deployment evidence",
+  "all_gameplay_scenarios_verified": false
 }

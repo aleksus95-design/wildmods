@@ -1,21 +1,119 @@
 {
-  "release": "MIDWAY_PROD_SCUM136_R2_20261111",
+  "release": "MIDWAY_FULL_SCUM1361_20261112",
   "role": "client",
   "profile": "COMMON_PVE_PVP",
-  "build": 26593778,
-  "version": "1.3.6.0",
-  "pak_count": 100,
-  "registry_sha256": "d192f57f1b67e92acd6aa285a8f39bd09eddfe1767862387f0cdffdc31c384a1",
-  "config_sha256": "c041da75480dc833d74556b7347f343d95c241826b8b860ea6ad8bfaa13650ff",
-  "activation": "RELEASE_REQUIRES_MATCHING_SERVER",
-  "publication_status": "PREPARED_FOR_COORDINATED_RELEASE",
-  "source_production_commit": "5f2864fcfe1ed96a7f0f87e839f945810af5034a",
+  "game_build": "26621909",
+  "server_build": "26621903",
+  "game_version": "1.3.6.1.177547",
+  "pak_count": 153,
   "files": [
+    {
+      "name": "MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
+      "relative_path": "~mods/MIDWAY_20261105_TEST/MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
+      "bytes": 93556,
+      "sha256": "36279355120cce43d97d147e415dd9c726184d8e108360703e1fdf1184f78bf6"
+    },
+    {
+      "name": "MIDWAY_MilitaryChest_HP10_R30H2_992_P.pak",
+      "relative_path": "~mods/MIDWAY_20261105_TEST/MIDWAY_MilitaryChest_HP10_R30H2_992_P.pak",
+      "bytes": 6224,
+      "sha256": "1e3aefe81951c7e164aee5963a192f953cb857dabb13cf5b9cd342f3a89aab54"
+    },
+    {
+      "name": "MIDWAY_Roulette_Horse_SearchBudget_R1_993_P.pak",
+      "relative_path": "~mods/MIDWAY_20261105_TEST/MIDWAY_Roulette_Horse_SearchBudget_R1_993_P.pak",
+      "bytes": 359689,
+      "sha256": "e3ec933464cfdd6da477d6d3ddf67d3fc0ebd7c7fcb346cc473cef199c97fd07"
+    },
+    {
+      "name": "MIDWAY_Camper_BenchHeight_PRIVATE_1023_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Camper_BenchHeight_PRIVATE_1023_P.pak",
+      "bytes": 2301836,
+      "sha256": "1e5192fe48a45377aeb76166e8ad10aff939754f789eee0951fd82317d56a408"
+    },
+    {
+      "name": "MIDWAY_Camper_ContinuousHeading_T53_TEST_1056_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Camper_ContinuousHeading_T53_TEST_1056_P.pak",
+      "bytes": 9656,
+      "sha256": "35ab00ba7654de35f918449dfd0c42a272c2eeead979f7a02fcb31fcbf5823be"
+    },
+    {
+      "name": "MIDWAY_Camper_Kitchen_Network_T44_TEST_1044_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Camper_Kitchen_Network_T44_TEST_1044_P.pak",
+      "bytes": 304063,
+      "sha256": "faa73d9fbd39b9d4b545fa35d3ac80fe7dbc45a51f48a2ea019e1453b01a25e6"
+    },
+    {
+      "name": "MIDWAY_Camper_RestFollow_PRIVATE_1020_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Camper_RestFollow_PRIVATE_1020_P.pak",
+      "bytes": 9064,
+      "sha256": "36d4086220b663dcde54891623ab7aace33d3135cfe94e4ac3712c9fcab0cce2"
+    },
+    {
+      "name": "MIDWAY_Camper_TableClearance_PRIVATE_1025_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Camper_TableClearance_PRIVATE_1025_P.pak",
+      "bytes": 2203836,
+      "sha256": "219104e04eaf7ac68fd9fd3885ef54b0601d42a7a713567b159406beec774174"
+    },
+    {
+      "name": "MIDWAY_Camper_TowAnchor_DoorLeaf_T52_TEST_1055_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Camper_TowAnchor_DoorLeaf_T52_TEST_1055_P.pak",
+      "bytes": 76414,
+      "sha256": "351bc978c0503d54363877a6a5fbd977fd830e8d9eb89b5972087e8627a6f95c"
+    },
+    {
+      "name": "MIDWAY_Camper_Trailer02_B26320533_T3_997_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Camper_Trailer02_B26320533_T3_997_P.pak",
+      "bytes": 7973582,
+      "sha256": "a91b1ad2791d2cded0bc6392dcc959799ead5ed207788481f5cdadd37e5f3986"
+    },
+    {
+      "name": "MIDWAY_Camper_Transport02_B26320533_T34H1_998_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Camper_Transport02_B26320533_T34H1_998_P.pak",
+      "bytes": 20074865,
+      "sha256": "c8470fbb7bdf02550469f0085b5c9e5fb06a8a7303828e75f59078f87d7e0995"
+    },
+    {
+      "name": "MIDWAY_Raptor_PaintMask_PRIVATE_1029_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Raptor_PaintMask_PRIVATE_1029_P.pak",
+      "bytes": 33409,
+      "sha256": "731734244e3a93b0eb997a367ab596aeb71f9fe8b9a7836aed5d64b072fe821b"
+    },
+    {
+      "name": "MIDWAY_Shop_Transport_RealPreviews_T61_TEST_1220_P.pak",
+      "relative_path": "~mods/MIDWAY_CAMPER_PRIVATE/MIDWAY_Shop_Transport_RealPreviews_T61_TEST_1220_P.pak",
+      "bytes": 8610095,
+      "sha256": "443a9093cae9c3fd99ed4d2ec3cb5203e9395af3624de35009606a589df3b6b1"
+    },
+    {
+      "name": "MIDWAY_Carry500_Profile_LOCAL_R3H4D_999_P.pak",
+      "relative_path": "~mods/MIDWAY_CARRY500_LOCAL/MIDWAY_Carry500_Profile_LOCAL_R3H4D_999_P.pak",
+      "bytes": 92709,
+      "sha256": "b75de4f2efaf3ede68acbdad96ca5e2879dab1ca61c9d4b97f67985154b4a89e"
+    },
+    {
+      "name": "MIDWAY_CCTV_MODPlusOnly_LOCAL_R65H1_1002_P.pak",
+      "relative_path": "~mods/MIDWAY_CCTV_MODPLUS_ONLY_LOCAL/MIDWAY_CCTV_MODPlusOnly_LOCAL_R65H1_1002_P.pak",
+      "bytes": 3662,
+      "sha256": "35b93e0deef368ae51d5cdf6e8b59362c8df9a0ee4a9b23d436c9bb69e065f11"
+    },
+    {
+      "name": "MIDWAY_Cauldron_StoneIngredient_B26320533_H1_996_P.pak",
+      "relative_path": "~mods/MIDWAY_Cauldron_H1/MIDWAY_Cauldron_StoneIngredient_B26320533_H1_996_P.pak",
+      "bytes": 2856,
+      "sha256": "e3debb501cc2e22e0ae11c21028a92e832912b8ea887b85a847e7202f81f03e8"
+    },
     {
       "name": "MIDWAY_Chest_Shadow_Client_B26320533_R68_TEST_866_P.pak",
       "relative_path": "~mods/MIDWAY_Chest_R68_TEST/MIDWAY_Chest_Shadow_Client_B26320533_R68_TEST_866_P.pak",
       "bytes": 39491,
       "sha256": "e793c8457bbd0274ec82dc1a53fe715b9af76e9b88f3ac3d2fee99f742e8ff56"
+    },
+    {
+      "name": "MIDWAY_Darts_Grip_B26320533_H1_TEST_1004_P.pak",
+      "relative_path": "~mods/MIDWAY_Darts_Grip_H1_TEST/MIDWAY_Darts_Grip_B26320533_H1_TEST_1004_P.pak",
+      "bytes": 252043,
+      "sha256": "92fb2737a1f71c41a973406ec349d0e3a6e486398550545887ef7f87da229553"
     },
     {
       "name": "MIDWAY_Deep_AttachmentGuard_B26320533_R76_TEST_977_P.pak",
@@ -24,16 +122,118 @@
       "sha256": "89755c1676f8b3eaaa6d884c018dcaa787b77441fe15d033be3ea916f8513646"
     },
     {
+      "name": "MIDWAY_Equipment_Spartan_Backpacks_Railgun_LOCAL_R1_1001_P.pak",
+      "relative_path": "~mods/MIDWAY_EQUIPMENT_LOCAL/MIDWAY_Equipment_Spartan_Backpacks_Railgun_LOCAL_R1_1001_P.pak",
+      "bytes": 579881,
+      "sha256": "20ad0d12030f9bf261670d5e19141c522903542e30ecf0f0faed1888eea02e4a"
+    },
+    {
+      "name": "MIDWAY_Camper_Performance_T62_TEST_1065_P.pak",
+      "relative_path": "~mods/MIDWAY_LOAD_AUDIT_20261111/MIDWAY_Camper_Performance_T62_TEST_1065_P.pak",
+      "bytes": 15689,
+      "sha256": "2de4ab13d6d586bbfde3b70756c56fc8cfe402585731d7116797327ecf45163e"
+    },
+    {
+      "name": "MIDWAY_Carry500_DiagnosticOff_R1_TEST_1000_P.pak",
+      "relative_path": "~mods/MIDWAY_LOAD_AUDIT_20261111/MIDWAY_Carry500_DiagnosticOff_R1_TEST_1000_P.pak",
+      "bytes": 7571,
+      "sha256": "ace84c6c7666b02a93c34ad5464f789bf86b428d84a277964c386329757aac77"
+    },
+    {
+      "name": "MIDWAY_Mig29_Cockpit_R7H1_TEST_1317_P.pak",
+      "relative_path": "~mods/MIDWAY_MIG_EXHAUST_LOCAL/MIDWAY_Mig29_Cockpit_R7H1_TEST_1317_P.pak",
+      "bytes": 23241517,
+      "sha256": "fc30fdd99c102a21361b7f07e0470f94b8c8d2efebdd7ca4da5e4267ada4b2fb"
+    },
+    {
+      "name": "MIDWAY_Mig29_CollisionCockpit_R8H2_TEST_1320_P.pak",
+      "relative_path": "~mods/MIDWAY_MIG_EXHAUST_LOCAL/MIDWAY_Mig29_CollisionCockpit_R8H2_TEST_1320_P.pak",
+      "bytes": 1778019,
+      "sha256": "dcf4090d8844a3c1f6490dc272644ab72dd1abb90de6d20f14a86115fb048ec4"
+    },
+    {
+      "name": "MIDWAY_Mig29_GlassPylons_R9_TEST_1321_P.pak",
+      "relative_path": "~mods/MIDWAY_MIG_EXHAUST_LOCAL/MIDWAY_Mig29_GlassPylons_R9_TEST_1321_P.pak",
+      "bytes": 1390285,
+      "sha256": "f3c0a5d99abccd5a13f8dd87a94ef8e03a64249ca45ba75618474485f53f5d85"
+    },
+    {
+      "name": "MIDWAY_Mig29_GlassSeal_R10_TEST_1322_P.pak",
+      "relative_path": "~mods/MIDWAY_MIG_EXHAUST_LOCAL/MIDWAY_Mig29_GlassSeal_R10_TEST_1322_P.pak",
+      "bytes": 1320395,
+      "sha256": "416c0feba939527fc68f07e1cbbbacd935e0f75c8b827cd2bb49ba19a3a907a0"
+    },
+    {
+      "name": "MIDWAY_Camper_RestAuthority_T63_TEST_1607_P.pak",
+      "relative_path": "~mods/MIDWAY_NOV136_TEST_NEXT_20261111/MIDWAY_Camper_RestAuthority_T63_TEST_1607_P.pak",
+      "bytes": 8467,
+      "sha256": "50bfdca6325302c27a1fc49dccbebc4f1b68cc901c3aa3d53cc845a12ce2a376"
+    },
+    {
+      "name": "MIDWAY_Mig29_FlightSurfaces_TEST_1620_P.pak",
+      "relative_path": "~mods/MIDWAY_NOV136_TEST_NEXT_20261111/MIDWAY_Mig29_FlightSurfaces_TEST_1620_P.pak",
+      "bytes": 88285,
+      "sha256": "774e1fe127b44e618eaaddd510853911eacc6441afd4ac7d87b5ae6eefcdc2dd"
+    },
+    {
+      "name": "MIDWAY_Nov136_OrphanImports_R1_1613_P.pak",
+      "relative_path": "~mods/MIDWAY_NOV136_TEST_NEXT_20261111/MIDWAY_Nov136_OrphanImports_R1_1613_P.pak",
+      "bytes": 12478,
+      "sha256": "d14960a5b8f3cea6dd58cc8aaed570f540399f1682e855521db8eb2c2f6c312d"
+    },
+    {
+      "name": "MIDWAY_Raptor_FrontEntry_TEST_R1_1621_P.pak",
+      "relative_path": "~mods/MIDWAY_NOV136_TEST_NEXT_20261111/MIDWAY_Raptor_FrontEntry_TEST_R1_1621_P.pak",
+      "bytes": 6394,
+      "sha256": "3d2b93eb41dee807a94e4ef4e32b709ff7679ad0285aa5d9e81e492bcdc72f7f"
+    },
+    {
       "name": "MIDWAY_Vehicle_Navigation_B26320533_R71_TEST_869_P.pak",
       "relative_path": "~mods/MIDWAY_Navigation_R71_TEST/MIDWAY_Vehicle_Navigation_B26320533_R71_TEST_869_P.pak",
       "bytes": 17548,
       "sha256": "9d40e5f520d988e50646bfc886fa9da52055e9de77443e84075bf0e3efbb2234"
     },
     {
-      "name": "MIDWAY_Nov136_Compat_CLIENT_R1_1703_P.pak",
-      "relative_path": "~mods/MIDWAY_Nov136_PROD/MIDWAY_Nov136_Compat_CLIENT_R1_1703_P.pak",
-      "bytes": 13420188,
-      "sha256": "b1d09eb396c44e89f5d54fcb84b2bbaeaf7a9bd0cdb483acc8105585262b74d8"
+      "name": "MIDWAY_MiniMap_B26593778_BootstrapLeft_POC_1610_P.pak",
+      "relative_path": "~mods/MIDWAY_Nov136_LOCAL_POC/MIDWAY_MiniMap_B26593778_BootstrapLeft_POC_1610_P.pak",
+      "bytes": 64893,
+      "sha256": "7696bbb61abb2f4102fedcc9a4d48bf199e1af9a24ed6c89b452f6870a0c100f"
+    },
+    {
+      "name": "MIDWAY_Nov136_Core_CLIENT_POC_1603_P.pak",
+      "relative_path": "~mods/MIDWAY_Nov136_LOCAL_POC/MIDWAY_Nov136_Core_CLIENT_POC_1603_P.pak",
+      "bytes": 13451736,
+      "sha256": "b607adf16465f79014a88b3a524e4e3517a8935b2452b7ba43c50e204834a39d"
+    },
+    {
+      "name": "MIDWAY_Nov136_Crafting_CLIENT_POC_1601_P.pak",
+      "relative_path": "~mods/MIDWAY_Nov136_LOCAL_POC/MIDWAY_Nov136_Crafting_CLIENT_POC_1601_P.pak",
+      "bytes": 5555,
+      "sha256": "d799e8c459eff287195dd2ab06193a974438cf12398b397d8420a4b50cccb744"
+    },
+    {
+      "name": "MIDWAY_Chest_WornPaint_B26320533_H1_1003_P.pak",
+      "relative_path": "~mods/MIDWAY_Optics_Chest_H1_TEST/MIDWAY_Chest_WornPaint_B26320533_H1_1003_P.pak",
+      "bytes": 11321,
+      "sha256": "3aacf48ff3a204fabcab7fbb94d2299d0c63204b87935f4fd990f47331352715"
+    },
+    {
+      "name": "MIDWAY_Ghost_ThermalBattery_B26320533_H1_1002_P.pak",
+      "relative_path": "~mods/MIDWAY_Optics_Chest_H1_TEST/MIDWAY_Ghost_ThermalBattery_B26320533_H1_1002_P.pak",
+      "bytes": 15912,
+      "sha256": "67574ade73ed11368108f63315938f184c1a9c3607028ce67bd9921df8649723"
+    },
+    {
+      "name": "MIDWAY_ThermalScope_Visual_B26320533_H1_1001_P.pak",
+      "relative_path": "~mods/MIDWAY_Optics_Chest_H1_TEST/MIDWAY_ThermalScope_Visual_B26320533_H1_1001_P.pak",
+      "bytes": 16281,
+      "sha256": "24beeecc9985beeee9ae266b4f2b1333b1884bd5a5127c202603481d3a746c76"
+    },
+    {
+      "name": "MIDWAY_Horse_CoatPaint_R1_B26593778_TEST_1642_P.pak",
+      "relative_path": "~mods/MIDWAY_Paint_TEST/MIDWAY_Horse_CoatPaint_R1_B26593778_TEST_1642_P.pak",
+      "bytes": 497982,
+      "sha256": "98386382d04a31cecd4ac06587b467da316516bacf42e2981e1b72169e24c7e9"
     },
     {
       "name": "MIDWAY_ArrowLimits_TEST_R1_774_P.pak",
@@ -72,12 +272,6 @@
       "sha256": "8ab2216de37ded0d456d53f9aa2062cc0d4a57e4959e8d50f285afb6a1815ebe"
     },
     {
-      "name": "MIDWAY_CoinLootTable_R9_617_P.pak",
-      "relative_path": "~mods/MIDWAY_R16/MIDWAY_CoinLootTable_R9_617_P.pak",
-      "bytes": 63535,
-      "sha256": "73a5b3548c1c6ecf287b4f77ae50730d967f1f08fa23944c92e334ae500563dd"
-    },
-    {
       "name": "MIDWAY_CopperCoins_B25804202_R6_511_P.pak",
       "relative_path": "~mods/MIDWAY_R16/MIDWAY_CopperCoins_B25804202_R6_511_P.pak",
       "bytes": 5726996,
@@ -106,12 +300,6 @@
       "relative_path": "~mods/MIDWAY_R16/MIDWAY_Helicopters_R13_798_P.pak",
       "bytes": 2659978,
       "sha256": "51987440915b7e756628dcd972050103a39863913061320cacdc55e1a954c65a"
-    },
-    {
-      "name": "MIDWAY_Horse_Cart_Unhitch_R1_786_P.pak",
-      "relative_path": "~mods/MIDWAY_R16/MIDWAY_Horse_Cart_Unhitch_R1_786_P.pak",
-      "bytes": 126952,
-      "sha256": "2b7c8f0f61af33e9bdee3a4dcfbc19fa14d6d6883e232135299398f6c87e6ac7"
     },
     {
       "name": "MIDWAY_Horse_ZIL_R1_771_P.pak",
@@ -264,12 +452,6 @@
       "sha256": "775f305c5900b6ac78aa592b9d8925e9602b30558837e0b47eb709863e84d06c"
     },
     {
-      "name": "MIDWAY_SuitExclusion_B25804202_R1_756_P.pak",
-      "relative_path": "~mods/MIDWAY_R16/MIDWAY_SuitExclusion_B25804202_R1_756_P.pak",
-      "bytes": 72280,
-      "sha256": "ace6319c677a6871c1a5172092ca61cca11dd3ef314b63aad22b30035a7533b1"
-    },
-    {
       "name": "MIDWAY_TankCrewLock_B25804202_R2_766_P.pak",
       "relative_path": "~mods/MIDWAY_R16/MIDWAY_TankCrewLock_B25804202_R2_766_P.pak",
       "bytes": 62926,
@@ -402,12 +584,6 @@
       "sha256": "e1092183559005f737e31e99764e0a1f88e8a654037a676b5463520bd03ae9e4"
     },
     {
-      "name": "MIDWAY_Spartan_Hazmat_R21_808_P.pak",
-      "relative_path": "~mods/MIDWAY_R21_TEST/MIDWAY_Spartan_Hazmat_R21_808_P.pak",
-      "bytes": 57599,
-      "sha256": "b308cff5777162d121ced1a4f6ff3b001107493549d604fdc6e58b8cab843fc4"
-    },
-    {
       "name": "MIDWAY_Aircraft_Map_Shop_R23_810_P.pak",
       "relative_path": "~mods/MIDWAY_R23_TEST/MIDWAY_Aircraft_Map_Shop_R23_810_P.pak",
       "bytes": 256278,
@@ -492,12 +668,6 @@
       "sha256": "8f53dc36d3c01d9c42e6cb0da6ddc34f72ecca4b2ab076aec0ca4e582e4dca91"
     },
     {
-      "name": "MIDWAY_Scout_Pickup_R42_836_P.pak",
-      "relative_path": "~mods/MIDWAY_R42/MIDWAY_Scout_Pickup_R42_836_P.pak",
-      "bytes": 9275,
-      "sha256": "6c3a02ae08d86130410b33d622ba65a317e6b22ea763c1f6d42723c4fdff963c"
-    },
-    {
       "name": "MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
       "relative_path": "~mods/MIDWAY_R43_TEST/MIDWAY_Building_Compatibility_B26320533_R43_TEST_838_P.pak",
       "bytes": 764939,
@@ -564,12 +734,6 @@
       "sha256": "44431042b39f31ec8eef434ca8a9114af4df2b6874fa5775835fd93e00f9a371"
     },
     {
-      "name": "MIDWAY_Deep_Bounds_B26320533_R75_TEST_976_P.pak",
-      "relative_path": "~mods/MIDWAY_R74_R75_TEST/MIDWAY_Deep_Bounds_B26320533_R75_TEST_976_P.pak",
-      "bytes": 10627,
-      "sha256": "1002cdccd634d120986f6e6f938b7accac3157cf102e65eee82254ef8b3648d9"
-    },
-    {
       "name": "MIDWAY_Darts_FreeWall_B26320533_R77_TEST_978_P.pak",
       "relative_path": "~mods/MIDWAY_R77/MIDWAY_Darts_FreeWall_B26320533_R77_TEST_978_P.pak",
       "bytes": 3298,
@@ -582,6 +746,72 @@
       "sha256": "221edf4c242eebb3cb401ff43a5bfeb45168327059a16d70f5920eb46b171b93"
     },
     {
+      "name": "MIDWAY_Railgun_Blast30m_HUDLow_R3H2_TEST_1218_P.pak",
+      "relative_path": "~mods/MIDWAY_RAILGUN_LOCAL_TEST/MIDWAY_Railgun_Blast30m_HUDLow_R3H2_TEST_1218_P.pak",
+      "bytes": 6671,
+      "sha256": "9a38aeff808be6f61722ca6096e6ac19c1e43a76cbccd4eb302ff23c1faaa7e5"
+    },
+    {
+      "name": "MIDWAY_Railgun_Status_ChargeOnly_R3H1_TEST_1215_P.pak",
+      "relative_path": "~mods/MIDWAY_RAILGUN_LOCAL_TEST/MIDWAY_Railgun_Status_ChargeOnly_R3H1_TEST_1215_P.pak",
+      "bytes": 36508,
+      "sha256": "9745be5fc99c04d4e982a8e77c7244596a21cfb46fec2b3f2e257ce0d06b6c89"
+    },
+    {
+      "name": "MIDWAY_Raptor_Audio_R8_1203_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_Audio_R8_1203_P.pak",
+      "bytes": 3496287,
+      "sha256": "b21dd76dceae4a087ffb98c6a70ad9738d9b7c1a3552c11984a42c831099b9ed"
+    },
+    {
+      "name": "MIDWAY_Raptor_Collision_R20_TEST_1222_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_Collision_R20_TEST_1222_P.pak",
+      "bytes": 3769,
+      "sha256": "d0c77a7ff6963a8b02d7ba6e53637cb2c1963603fb5b16b86b29f6f1ff45885b"
+    },
+    {
+      "name": "MIDWAY_Raptor_Drive200Candidate_R16_1214_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_Drive200Candidate_R16_1214_P.pak",
+      "bytes": 22743,
+      "sha256": "31918212baa0fa8ea45993d317f84da12384825deadf0452c63ef0fc9eced177"
+    },
+    {
+      "name": "MIDWAY_Raptor_Local_R4H2_1014_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_Local_R4H2_1014_P.pak",
+      "bytes": 73059107,
+      "sha256": "d5c25ec303e606eb2d199a5b34162fac493965207555899e5f06a7cbb1fc167f"
+    },
+    {
+      "name": "MIDWAY_Raptor_PartIcons_R17_1217_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_PartIcons_R17_1217_P.pak",
+      "bytes": 2601279,
+      "sha256": "db9d47e48436893e191c1a9fd76388d72cfd873c343a360b63c08e2d76a47ed8"
+    },
+    {
+      "name": "MIDWAY_Raptor_PickupV8_R14_1206_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_PickupV8_R14_1206_P.pak",
+      "bytes": 27097731,
+      "sha256": "3c61916297ae6032198d330b6f43edadaaf9653347bfcc30e9f99bb8e7f6f6e9"
+    },
+    {
+      "name": "MIDWAY_Raptor_PickupV8_R15_1207_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_PickupV8_R15_1207_P.pak",
+      "bytes": 5434771,
+      "sha256": "81c6ce7653b283a3e8acda83f6a0bbc06d844bbf53d63f799f196ac37bec2f0e"
+    },
+    {
+      "name": "MIDWAY_Raptor_RagerAudio_R19_1221_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_RagerAudio_R19_1221_P.pak",
+      "bytes": 7316,
+      "sha256": "76b37534957692cd6a211b6609fbb12b905a93ce0710e665bb272a67eaf4953c"
+    },
+    {
+      "name": "MIDWAY_Raptor_V8Roar_R16_1216_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_V8Roar_R16_1216_P.pak",
+      "bytes": 5339615,
+      "sha256": "76ff3489999a6aca6613612388d5233dffa144189510c3e78c7f37288f12d754"
+    },
+    {
       "name": "MIDWAY_Remote_Cleanup_B26320533_R69_TEST_867_P.pak",
       "relative_path": "~mods/MIDWAY_Remote_R69_TEST/MIDWAY_Remote_Cleanup_B26320533_R69_TEST_867_P.pak",
       "bytes": 23251,
@@ -592,6 +822,72 @@
       "relative_path": "~mods/MIDWAY_Roulette_Exchange_TEST/MIDWAY_Roulette_TableMenu_B26320533_R6H18_928_P.pak",
       "bytes": 19834437,
       "sha256": "6546c50d6007e324423ba65f11276fc5a18e9681eb0f910cf49010173870e568"
+    },
+    {
+      "name": "MIDWAY_Services_Performance_LOCAL_R1_1201_P.pak",
+      "relative_path": "~mods/MIDWAY_SERVICES_LOCAL/MIDWAY_Services_Performance_LOCAL_R1_1201_P.pak",
+      "bytes": 126743,
+      "sha256": "5cbeb1b809c60601509436117cf454b35cad01f79c65ed60d51684c345d42b71"
+    },
+    {
+      "name": "MIDWAY_Shop_Aircraft_Prices_R1_TEST_1213_P.pak",
+      "relative_path": "~mods/MIDWAY_SHOP_AIRCRAFT_TEST/MIDWAY_Shop_Aircraft_Prices_R1_TEST_1213_P.pak",
+      "bytes": 8588693,
+      "sha256": "badc2107e96d35fb7f25808f17467c7366f449c3e0762d7bcb6069922f475b2f"
+    },
+    {
+      "name": "MIDWAY_Camper_Paint_CLIENT_T65_B26593778_TEST_1644_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_Camper_Paint_CLIENT_T65_B26593778_TEST_1644_P.pak",
+      "bytes": 167814,
+      "sha256": "df6f279942fa942ccd172d18905236e82d6656480c77600d5a0b4ca3599e1d7e"
+    },
+    {
+      "name": "MIDWAY_Horse_Ears_R2_B26593778_TEST_1652_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_Horse_Ears_R2_B26593778_TEST_1652_P.pak",
+      "bytes": 125178,
+      "sha256": "fafb3f1a9f3e3c718ce8bd98559ccfe883453d4187a0c66b9d63cc801bfea830"
+    },
+    {
+      "name": "MIDWAY_Scout_CollisionOnce_R1_B26593778_TEST_1645_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_Scout_CollisionOnce_R1_B26593778_TEST_1645_P.pak",
+      "bytes": 9907,
+      "sha256": "0347937439bc2add29d607ead145bd52b50fae7a759d35ea57ca719abbe90b48"
+    },
+    {
+      "name": "MIDWAY_Scout_PowerOff_R2_B26593778_TEST_1643_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_Scout_PowerOff_R2_B26593778_TEST_1643_P.pak",
+      "bytes": 16418,
+      "sha256": "8fcffbcbb8aa7153add24fb00967a836a8f4b07811110c4368ae0c887e19dcc8"
+    },
+    {
+      "name": "MIDWAY_WolfPet_HuntFocusCombat_R7_B26593778_TEST_1656_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_WolfPet_HuntFocusCombat_R7_B26593778_TEST_1656_P.pak",
+      "bytes": 31193,
+      "sha256": "9864e589eff4893678653c2ac221859e1ece907dba5f9fb4da7bf44609b21193"
+    },
+    {
+      "name": "MIDWAY_WolfPet_IconMip_R4_B26593778_TEST_1651_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_WolfPet_IconMip_R4_B26593778_TEST_1651_P.pak",
+      "bytes": 2666146,
+      "sha256": "3a016653fb12ab68f018a603f7d40d18f3b3f109a8c384bdc04e95cef6558335"
+    },
+    {
+      "name": "MIDWAY_WolfPet_Icon_R3_B26593778_TEST_1649_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_WolfPet_Icon_R3_B26593778_TEST_1649_P.pak",
+      "bytes": 2944197,
+      "sha256": "076d8b89f1819b85b4f99bf22fe3094f4f0a0f63ca5063ceea43bf2c76f5c82d"
+    },
+    {
+      "name": "MIDWAY_WolfPet_R2_B26593778_TEST_1648_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_WolfPet_R2_B26593778_TEST_1648_P.pak",
+      "bytes": 8033409,
+      "sha256": "239d929b9ad6bfa1b603ef756f6aa663a459efaf068db5ba0c9fe821e4daa61a"
+    },
+    {
+      "name": "MIDWAY_WolfPet_WheelHuntCollision_R6_B26593778_TEST_1655_P.pak",
+      "relative_path": "~mods/MIDWAY_TEST_20261112/MIDWAY_WolfPet_WheelHuntCollision_R6_B26593778_TEST_1655_P.pak",
+      "bytes": 43008,
+      "sha256": "3a89ebb78be2046ee7927bd1d78ea1a7c1b62b0dde600d1ed5dbb7bf9fbf6510"
     },
     {
       "name": "MIDWAY_Thermal_Devices_B26320533_R67_TEST_865_P.pak",
@@ -610,6 +906,24 @@
       "relative_path": "~mods/MIDWAY_WeaponCraft_R78_TEST/MIDWAY_WeaponCraft_Block_B26320533_R78_TEST_979_P.pak",
       "bytes": 108786,
       "sha256": "ba5bcca7046728cd0106639c99b7fc72468f3c88b386594bc502d8887ac541e3"
+    },
+    {
+      "name": "MIDWAY_Hotfix1361_FullRegistry_B26621909_1800_P.pak",
+      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_FullRegistry_B26621909_1800_P.pak",
+      "bytes": 7978317,
+      "sha256": "849b10aaf2a7e952175d5fa0f3db036cdcabf129c73331ea115a775582aad120"
+    },
+    {
+      "name": "MIDWAY_Hotfix1361_Prediction_CLIENT_B26621909_1801_P.pak",
+      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_Prediction_CLIENT_B26621909_1801_P.pak",
+      "bytes": 1109141,
+      "sha256": "972725d5f931099fc2a45d705d70f34d15063c65b171e90bf083b40fdcba3834"
+    },
+    {
+      "name": "MIDWAY_Hotfix1361_AdminControlChannel_CLIENT_B26621909_1802_P.pak",
+      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_AdminControlChannel_CLIENT_B26621909_1802_P.pak",
+      "bytes": 14531,
+      "sha256": "6c378737072d1b3a527f79f92ade1ffd0aea69a0ab0e32b85ac437e13f752f03"
     }
   ]
 }
