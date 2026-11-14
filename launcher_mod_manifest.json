@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "daa6f3108d07a8ce00a249026a0c261307124747",
-  "file_count": 153,
-  "files_sha256": "8bff151110e8f3f995f6741d91f4820de54fcb63ce668bd20d07b3ba9dc64f25",
+  "commit": "b36aa1731b83d6843d7f3a62e9ad2d9064a03b26",
+  "file_count": 154,
+  "files_sha256": "e9e6896bec74a95ebb8f4f7a4f475a69a941a315179b37c82a19895b5c67f225",
   "items": [
     {
       "path": "MIDWAY_20261105_TEST/MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
@@ -215,6 +215,14 @@
       "name": "MIDWAY_Mig29_GlassSeal_R10_TEST_1322_P.pak",
       "lfs_oid": "416c0feba939527fc68f07e1cbbbacd935e0f75c8b827cd2bb49ba19a3a907a0",
       "lfs_size": 1320395
+    },
+    {
+      "path": "MIDWAY_NETFIX_20261114/MIDWAY_VanillaFactoryCompat_PetParent_R1_1862_P.pak",
+      "size": 129,
+      "sha": "37c10b90f62d45b405b9daea352d099c0e71fb58",
+      "name": "MIDWAY_VanillaFactoryCompat_PetParent_R1_1862_P.pak",
+      "lfs_oid": "a2528d515751c1f88a71bbb239a7bf2917167420c01a03e3b44df4510ff921d0",
+      "lfs_size": 3458
     },
     {
       "path": "MIDWAY_NOV136_TEST_NEXT_20261111/MIDWAY_Camper_RestAuthority_T63_TEST_1607_P.pak",
