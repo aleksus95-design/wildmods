@@ -1,11 +1,11 @@
 {
-  "release": "MIDWAY_FULL_SCUM1361_WOLF_R9_RAGER_QUOTA1863_20261114",
+  "release": "MIDWAY_FULL_SCUM1361_WOLF_R9_RAGER_QUOTA1863_RAPTOR_COYOTE1875_20261114",
   "role": "client",
   "profile": "COMMON_PVE_PVP",
   "game_build": "26621909",
   "server_build": "26621903",
   "game_version": "1.3.6.1.177547",
-  "pak_count": 156,
+  "pak_count": 157,
   "files": [
     {
       "name": "MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
@@ -786,6 +786,12 @@
       "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_Collision_R20_TEST_1222_P.pak",
       "bytes": 3769,
       "sha256": "d0c77a7ff6963a8b02d7ba6e53637cb2c1963603fb5b16b86b29f6f1ff45885b"
+    },
+    {
+      "name": "MIDWAY_Raptor_CoyoteAudio_B26621909_1875_P.pak",
+      "relative_path": "~mods/MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_CoyoteAudio_B26621909_1875_P.pak",
+      "bytes": 2914750,
+      "sha256": "d28e0b362d787a495bf7045985cb9e390ad5fd9612f7ba63e2c3bc80da25a221"
     },
     {
       "name": "MIDWAY_Raptor_Drive200Candidate_R16_1214_P.pak",
