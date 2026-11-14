@@ -1,11 +1,11 @@
 {
-  "release": "MIDWAY_FULL_SCUM1361_20261112",
+  "release": "MIDWAY_FULL_SCUM1361_NETFIX1862_20261114",
   "role": "client",
   "profile": "COMMON_PVE_PVP",
   "game_build": "26621909",
   "server_build": "26621903",
   "game_version": "1.3.6.1.177547",
-  "pak_count": 153,
+  "pak_count": 154,
   "files": [
     {
       "name": "MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
@@ -162,6 +162,12 @@
       "relative_path": "~mods/MIDWAY_MIG_EXHAUST_LOCAL/MIDWAY_Mig29_GlassSeal_R10_TEST_1322_P.pak",
       "bytes": 1320395,
       "sha256": "416c0feba939527fc68f07e1cbbbacd935e0f75c8b827cd2bb49ba19a3a907a0"
+    },
+    {
+      "name": "MIDWAY_VanillaFactoryCompat_PetParent_R1_1862_P.pak",
+      "relative_path": "~mods/MIDWAY_NETFIX_20261114/MIDWAY_VanillaFactoryCompat_PetParent_R1_1862_P.pak",
+      "bytes": 3458,
+      "sha256": "a2528d515751c1f88a71bbb239a7bf2917167420c01a03e3b44df4510ff921d0"
     },
     {
       "name": "MIDWAY_Camper_RestAuthority_T63_TEST_1607_P.pak",
@@ -824,6 +830,24 @@
       "sha256": "6546c50d6007e324423ba65f11276fc5a18e9681eb0f910cf49010173870e568"
     },
     {
+      "name": "MIDWAY_Hotfix1361_AdminControlChannel_CLIENT_B26621909_1802_P.pak",
+      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_AdminControlChannel_CLIENT_B26621909_1802_P.pak",
+      "bytes": 14531,
+      "sha256": "6c378737072d1b3a527f79f92ade1ffd0aea69a0ab0e32b85ac437e13f752f03"
+    },
+    {
+      "name": "MIDWAY_Hotfix1361_FullRegistry_B26621909_1800_P.pak",
+      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_FullRegistry_B26621909_1800_P.pak",
+      "bytes": 7978317,
+      "sha256": "849b10aaf2a7e952175d5fa0f3db036cdcabf129c73331ea115a775582aad120"
+    },
+    {
+      "name": "MIDWAY_Hotfix1361_Prediction_CLIENT_B26621909_1801_P.pak",
+      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_Prediction_CLIENT_B26621909_1801_P.pak",
+      "bytes": 1109141,
+      "sha256": "972725d5f931099fc2a45d705d70f34d15063c65b171e90bf083b40fdcba3834"
+    },
+    {
       "name": "MIDWAY_Services_Performance_LOCAL_R1_1201_P.pak",
       "relative_path": "~mods/MIDWAY_SERVICES_LOCAL/MIDWAY_Services_Performance_LOCAL_R1_1201_P.pak",
       "bytes": 126743,
@@ -906,24 +930,6 @@
       "relative_path": "~mods/MIDWAY_WeaponCraft_R78_TEST/MIDWAY_WeaponCraft_Block_B26320533_R78_TEST_979_P.pak",
       "bytes": 108786,
       "sha256": "ba5bcca7046728cd0106639c99b7fc72468f3c88b386594bc502d8887ac541e3"
-    },
-    {
-      "name": "MIDWAY_Hotfix1361_FullRegistry_B26621909_1800_P.pak",
-      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_FullRegistry_B26621909_1800_P.pak",
-      "bytes": 7978317,
-      "sha256": "849b10aaf2a7e952175d5fa0f3db036cdcabf129c73331ea115a775582aad120"
-    },
-    {
-      "name": "MIDWAY_Hotfix1361_Prediction_CLIENT_B26621909_1801_P.pak",
-      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_Prediction_CLIENT_B26621909_1801_P.pak",
-      "bytes": 1109141,
-      "sha256": "972725d5f931099fc2a45d705d70f34d15063c65b171e90bf083b40fdcba3834"
-    },
-    {
-      "name": "MIDWAY_Hotfix1361_AdminControlChannel_CLIENT_B26621909_1802_P.pak",
-      "relative_path": "~mods/MIDWAY_SCUM136/MIDWAY_Hotfix1361_AdminControlChannel_CLIENT_B26621909_1802_P.pak",
-      "bytes": 14531,
-      "sha256": "6c378737072d1b3a527f79f92ade1ffd0aea69a0ab0e32b85ac437e13f752f03"
     }
   ]
 }

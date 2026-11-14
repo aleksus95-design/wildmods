@@ -10,5 +10,16 @@
     "serialized_readback_exact": true
   },
   "runtime_status": "Recorded separately in deployment evidence",
-  "all_gameplay_scenarios_verified": false
+  "all_gameplay_scenarios_verified": false,
+  "netfix1862": {
+    "pak": "MIDWAY_NETFIX_20261114/MIDWAY_VanillaFactoryCompat_PetParent_R1_1862_P.pak",
+    "sha256": "a2528d515751c1f88a71bbb239a7bf2917167420c01a03e3b44df4510ff921d0",
+    "parent_setup_fix": true,
+    "asset_registry_unchanged": true,
+    "cooked_ancestry_standard_ordinal_shifts_before": 1099,
+    "cooked_ancestry_standard_ordinal_shifts_after": 0,
+    "clean_client_test": "User confirmed on TEST23694",
+    "runtime_memory_table_capture": false,
+    "production": "Installed on PvP23297 and PvE23629; applies on next server restart"
+  }
 }
