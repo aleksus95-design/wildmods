@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "8ed97971666fee4bb23953d291e8935264c9f298",
-  "file_count": 156,
-  "files_sha256": "44f2f8cc6bc58cf78a5e181cef075c72c427940104d892a3332901e107b40e39",
+  "commit": "707bd4c4cdf3d6761370d56c979e614ff165d357",
+  "file_count": 157,
+  "files_sha256": "dd65be13861cc3820e080def5be31f3bc6552e09ba0aca2a56fb6e53d4e2609d",
   "items": [
     {
       "path": "MIDWAY_20261105_TEST/MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
@@ -1047,6 +1047,14 @@
       "name": "MIDWAY_Raptor_Collision_R20_TEST_1222_P.pak",
       "lfs_oid": "d0c77a7ff6963a8b02d7ba6e53637cb2c1963603fb5b16b86b29f6f1ff45885b",
       "lfs_size": 3769
+    },
+    {
+      "path": "MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_CoyoteAudio_B26621909_1875_P.pak",
+      "size": 132,
+      "sha": "507df52f6a651cd3c7c57567ca53a6bb3ca33d83",
+      "name": "MIDWAY_Raptor_CoyoteAudio_B26621909_1875_P.pak",
+      "lfs_oid": "d28e0b362d787a495bf7045985cb9e390ad5fd9612f7ba63e2c3bc80da25a221",
+      "lfs_size": 2914750
     },
     {
       "path": "MIDWAY_RAPTOR_LOCAL/MIDWAY_Raptor_Drive200Candidate_R16_1214_P.pak",
