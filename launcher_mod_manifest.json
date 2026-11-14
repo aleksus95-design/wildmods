@@ -4,9 +4,9 @@
   "owner": "aleksus95-design",
   "repo": "wildmods",
   "branch": "main",
-  "commit": "b36aa1731b83d6843d7f3a62e9ad2d9064a03b26",
-  "file_count": 154,
-  "files_sha256": "e9e6896bec74a95ebb8f4f7a4f475a69a941a315179b37c82a19895b5c67f225",
+  "commit": "1165cc5828a24cf01e48c791171c809b8629de3c",
+  "file_count": 155,
+  "files_sha256": "846fe1503394561833122cb731e79a7579bd9e181962f8639232943a271f5e22",
   "items": [
     {
       "path": "MIDWAY_20261105_TEST/MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
@@ -311,6 +311,14 @@
       "name": "MIDWAY_ThermalScope_Visual_B26320533_H1_1001_P.pak",
       "lfs_oid": "24beeecc9985beeee9ae266b4f2b1333b1884bd5a5127c202603481d3a746c76",
       "lfs_size": 16281
+    },
+    {
+      "path": "MIDWAY_PET_R9/MIDWAY_Hotfix1361_WolfPetToken_R9_B26621909_1809_P.pak",
+      "size": 131,
+      "sha": "b8b0e368a45cdb30ca44d31ae5e78d45714fce66",
+      "name": "MIDWAY_Hotfix1361_WolfPetToken_R9_B26621909_1809_P.pak",
+      "lfs_oid": "665b4c7586e55067f9ca9b077d976ad7522b9276e91ef1315be977b8e0efb943",
+      "lfs_size": 123453
     },
     {
       "path": "MIDWAY_Paint_TEST/MIDWAY_Horse_CoatPaint_R1_B26593778_TEST_1642_P.pak",
