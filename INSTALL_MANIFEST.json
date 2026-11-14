@@ -1,11 +1,11 @@
 {
-  "release": "MIDWAY_FULL_SCUM1361_WOLF_R9_20261114",
+  "release": "MIDWAY_FULL_SCUM1361_WOLF_R9_RAGER_QUOTA1863_20261114",
   "role": "client",
   "profile": "COMMON_PVE_PVP",
   "game_build": "26621909",
   "server_build": "26621903",
   "game_version": "1.3.6.1.177547",
-  "pak_count": 155,
+  "pak_count": 156,
   "files": [
     {
       "name": "MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
@@ -756,6 +756,12 @@
       "relative_path": "~mods/MIDWAY_R79/MIDWAY_FlightCamera_B26320533_R79_TEST_980_P.pak",
       "bytes": 154122,
       "sha256": "221edf4c242eebb3cb401ff43a5bfeb45168327059a16d70f5920eb46b171b93"
+    },
+    {
+      "name": "MIDWAY_RagerQuota_CLIENT_R3_1863_P.pak",
+      "relative_path": "~mods/MIDWAY_RAGER_QUOTA_20261114/MIDWAY_RagerQuota_CLIENT_R3_1863_P.pak",
+      "bytes": 129825,
+      "sha256": "a03254424ef61f6da99b303ef1bceb0e578b9eb2639989676e0508b0b8fad769"
     },
     {
       "name": "MIDWAY_Railgun_Blast30m_HUDLow_R3H2_TEST_1218_P.pak",

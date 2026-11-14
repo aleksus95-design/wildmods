@@ -33,5 +33,28 @@
     "cooked_bytecode_cases": 43,
     "historical_ue_cases": 155,
     "gameplay_verified_this_pass": false
+  },
+  "rager_quota_1863": {
+    "pak": "MIDWAY_RAGER_QUOTA_20261114/MIDWAY_RagerQuota_CLIENT_R3_1863_P.pak",
+    "sha256": "a03254424ef61f6da99b303ef1bceb0e578b9eb2639989676e0508b0b8fad769",
+    "registry_unchanged": true,
+    "entity_setups_unchanged": true,
+    "groups": [
+      "Skyline",
+      "Kamaz",
+      "Zil",
+      "Tank",
+      "Raptor"
+    ],
+    "stock_rager_limit_unchanged": true,
+    "server_client_variants_differ": true,
+    "original_payloads_match_current_production": true,
+    "test_server_startup_verified": true,
+    "runtime_quota_verified": false,
+    "activation": "next normal server restart; no forced restart",
+    "protected_fixes": [
+      1862,
+      1809
+    ]
   }
 }
