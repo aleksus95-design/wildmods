@@ -21,5 +21,17 @@
     "clean_client_test": "User confirmed on TEST23694",
     "runtime_memory_table_capture": false,
     "production": "Installed on PvP23297 and PvE23629; applies on next server restart"
+  },
+  "wolf_unbind_r9": {
+    "pak": "MIDWAY_PET_R9/MIDWAY_Hotfix1361_WolfPetToken_R9_B26621909_1809_P.pak",
+    "sha256": "665b4c7586e55067f9ca9b077d976ad7522b9276e91ef1315be977b8e0efb943",
+    "registry_unchanged": true,
+    "network_schema_unchanged": true,
+    "protected_netfix1862": true,
+    "production": "On disk, applies on next normal restart; no forced restart",
+    "test_sha_and_mount_verified": true,
+    "cooked_bytecode_cases": 43,
+    "historical_ue_cases": 155,
+    "gameplay_verified_this_pass": false
   }
 }

@@ -1,11 +1,11 @@
 {
-  "release": "MIDWAY_FULL_SCUM1361_NETFIX1862_20261114",
+  "release": "MIDWAY_FULL_SCUM1361_WOLF_R9_20261114",
   "role": "client",
   "profile": "COMMON_PVE_PVP",
   "game_build": "26621909",
   "server_build": "26621903",
   "game_version": "1.3.6.1.177547",
-  "pak_count": 154,
+  "pak_count": 155,
   "files": [
     {
       "name": "MIDWAY_Cart_HitchCleanup_R52H2_991_P.pak",
@@ -234,6 +234,12 @@
       "relative_path": "~mods/MIDWAY_Optics_Chest_H1_TEST/MIDWAY_ThermalScope_Visual_B26320533_H1_1001_P.pak",
       "bytes": 16281,
       "sha256": "24beeecc9985beeee9ae266b4f2b1333b1884bd5a5127c202603481d3a746c76"
+    },
+    {
+      "name": "MIDWAY_Hotfix1361_WolfPetToken_R9_B26621909_1809_P.pak",
+      "relative_path": "~mods/MIDWAY_PET_R9/MIDWAY_Hotfix1361_WolfPetToken_R9_B26621909_1809_P.pak",
+      "bytes": 123453,
+      "sha256": "665b4c7586e55067f9ca9b077d976ad7522b9276e91ef1315be977b8e0efb943"
     },
     {
       "name": "MIDWAY_Horse_CoatPaint_R1_B26593778_TEST_1642_P.pak",
